@@ -2,15 +2,15 @@
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/hero.svg" alt="Vikash Kumar, .NET Backend Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=Building+secure+REST+APIs+with+ASP.NET+Core;Designing+fast+SQL+Server+databases;Migrating+legacy+SOAP+services+to+REST;Deploying+to+Microsoft+Azure" alt="What I do" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=FB923C&center=true&vCenter=true&width=900&height=40&lines=Building+secure+REST+APIs+with+ASP.NET+Core;Designing+fast+SQL+Server+databases;Migrating+legacy+SOAP+services+to+REST;Deploying+to+Microsoft+Azure" alt="What I do" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-developervikashkumar.vercel.app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://developervikashkumar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-developer--vikash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/developer-vikash)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:vikashkumarjh2009@gmail.com)
-[![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://twitter.com/_Mr_Vikash)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/_bhabhan_52)
+[![Portfolio](https://img.shields.io/badge/Portfolio-developervikashkumar.vercel.app-F97316?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0C0A09)](https://developervikashkumar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-developer--vikash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C0A09)](https://www.linkedin.com/in/developer-vikash)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0A09)](mailto:vikashkumarjh2009@gmail.com)
+[![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0C0A09)](https://twitter.com/_Mr_Vikash)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0C0A09)](https://instagram.com/_bhabhan_52)
 
 <sub>Open to .NET backend roles · Gurugram, Haryana, India · remote-friendly</sub>
 
@@ -119,12 +119,12 @@ More on my [portfolio](https://developervikashkumar.vercel.app/).
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/activity.svg" alt="Contribution signal for the last six months" width="100%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&border_color=7C3AED&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma42&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&border_color=7C3AED&langs_count=8" alt="Top languages" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/streak.svg" alt="Contribution streak" width="100%" />
 
-<img src="https://streak-stats.demolab.com?user=vikashsharma42&theme=tokyonight&background=0d1117&border=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="Contribution streak" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/stats.svg" alt="GitHub stats" width="49%" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" alt="Top languages" width="49%" />
 
-![Snake animation](https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
@@ -136,8 +136,8 @@ I like talking about backend architecture, APIs, Azure and .NET. The fastest way
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:7C3AED,100:A78BFA&height=110&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0A09,60:F97316,100:FDBA74&height=110&section=footer" alt="" />
 
-![Profile views](https://komarev.com/ghpvc/?username=vikashsharma42&label=profile%20views&color=7C3AED&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=vikashsharma42&label=profile%20views&color=F97316&style=flat-square)
 
 </div>

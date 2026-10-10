@@ -3,25 +3,25 @@
   <desc id="d">Profile banner: Vikash Kumar, .NET Backend Developer working with C#, ASP.NET Core, SQL Server and Azure, based in Gurugram, India.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B0B14"/>
-      <stop offset="0.6" stop-color="#140F26"/>
-      <stop offset="1" stop-color="#1B1236"/>
+      <stop offset="0" stop-color="#0C0A09"/>
+      <stop offset="0.6" stop-color="#1A1209"/>
+      <stop offset="1" stop-color="#2A1708"/>
     </linearGradient>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#C4B5FD"/>
-      <stop offset="0.55" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#22D3EE"/>
+      <stop offset="0" stop-color="#FED7AA"/>
+      <stop offset="0.55" stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#FBBF24"/>
     </linearGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#22D3EE"/>
+      <stop offset="0" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#FBBF24"/>
     </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#A78BFA" stroke-opacity="0.07" stroke-width="1"/>
+      <path d="M32 0H0V32" fill="none" stroke="#FB923C" stroke-opacity="0.07" stroke-width="1"/>
     </pattern>
     <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.45"/>
-      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="0" stop-color="#F97316" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
     <style>
@@ -43,44 +43,44 @@
     <circle cx="120" cy="330" r="200" fill="url(#glow)" opacity="0.5"/>
     <rect x="0" y="0" width="1200" height="4" fill="url(#bar)"/>
   </g>
-  <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#7C3AED" stroke-opacity="0.45"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#F97316" stroke-opacity="0.45"/>
 
   <!-- terminal bar -->
   <circle cx="62" cy="40" r="6" fill="#FF5F56"/>
   <circle cx="84" cy="40" r="6" fill="#FFBD2E"/>
   <circle cx="106" cy="40" r="6" fill="#27C93F"/>
-  <text x="132" y="45" class="mono" font-size="15" fill="#94A3B8">vikash@gurugram:~$ whoami</text>
-  <rect class="blink" x="354" y="31" width="9" height="18" fill="#A78BFA"/>
+  <text x="132" y="45" class="mono" font-size="15" fill="#A8A29E">vikash@gurugram:~$ whoami</text>
+  <rect class="blink" x="354" y="31" width="9" height="18" fill="#FB923C"/>
 
   <!-- identity -->
   <text x="60" y="140" class="sans" font-size="68" font-weight="800" fill="url(#name)">Vikash Kumar</text>
-  <text x="62" y="186" class="sans" font-size="30" font-weight="600" fill="#DDD6FE">.NET Backend Developer</text>
-  <text x="62" y="220" class="mono" font-size="18" fill="#94A3B8">C#  ·  ASP.NET Core  ·  SQL Server  ·  Azure</text>
+  <text x="62" y="186" class="sans" font-size="30" font-weight="600" fill="#FFEDD5">.NET Backend Developer</text>
+  <text x="62" y="220" class="mono" font-size="18" fill="#A8A29E">C#  ·  ASP.NET Core  ·  SQL Server  ·  Azure</text>
 
   <!-- chips -->
   <g class="mono" font-size="15">
-    <rect x="60" y="248" width="196" height="38" rx="19" fill="#7C3AED" fill-opacity="0.16" stroke="#7C3AED" stroke-opacity="0.7"/>
-    <text x="158" y="272" text-anchor="middle" fill="#DDD6FE">2+ yrs experience</text>
+    <rect x="60" y="248" width="196" height="38" rx="19" fill="#F97316" fill-opacity="0.16" stroke="#F97316" stroke-opacity="0.7"/>
+    <text x="158" y="272" text-anchor="middle" fill="#FFEDD5">2+ yrs experience</text>
 
-    <rect x="272" y="248" width="178" height="38" rx="19" fill="#7C3AED" fill-opacity="0.16" stroke="#7C3AED" stroke-opacity="0.7"/>
-    <text x="361" y="272" text-anchor="middle" fill="#DDD6FE">Gurugram, India</text>
+    <rect x="272" y="248" width="178" height="38" rx="19" fill="#F97316" fill-opacity="0.16" stroke="#F97316" stroke-opacity="0.7"/>
+    <text x="361" y="272" text-anchor="middle" fill="#FFEDD5">Gurugram, India</text>
 
-    <rect x="466" y="248" width="246" height="38" rx="19" fill="#22D3EE" fill-opacity="0.10" stroke="#22D3EE" stroke-opacity="0.7"/>
+    <rect x="466" y="248" width="246" height="38" rx="19" fill="#FBBF24" fill-opacity="0.10" stroke="#FBBF24" stroke-opacity="0.7"/>
     <circle class="pulse" cx="494" cy="267" r="5" fill="#34D399"/>
-    <text x="512" y="272" fill="#A5F3FC">Open to opportunities</text>
+    <text x="512" y="272" fill="#FDE68A">Open to opportunities</text>
   </g>
 
   <!-- code card -->
   <g class="float">
-    <rect x="760" y="76" width="380" height="188" rx="14" fill="#0E0B1C" fill-opacity="0.92" stroke="#7C3AED" stroke-opacity="0.55"/>
-    <rect x="760" y="76" width="380" height="36" rx="14" fill="#7C3AED" fill-opacity="0.18"/>
-    <rect x="760" y="98" width="380" height="14" fill="#7C3AED" fill-opacity="0.18"/>
-    <text x="780" y="99" class="mono" font-size="14" fill="#C4B5FD">Program.cs</text>
+    <rect x="760" y="76" width="380" height="188" rx="14" fill="#120C07" fill-opacity="0.92" stroke="#F97316" stroke-opacity="0.55"/>
+    <rect x="760" y="76" width="380" height="36" rx="14" fill="#F97316" fill-opacity="0.18"/>
+    <rect x="760" y="98" width="380" height="14" fill="#F97316" fill-opacity="0.18"/>
+    <text x="780" y="99" class="mono" font-size="14" fill="#FED7AA">Program.cs</text>
     <g class="mono" font-size="15" fill="#E2E8F0">
-      <text x="780" y="140"><tspan fill="#C084FC">var</tspan> app = builder.<tspan fill="#60A5FA">Build</tspan>();</text>
-      <text x="780" y="168">app.<tspan fill="#60A5FA">MapGet</tspan>(<tspan fill="#86EFAC">"/api/hi"</tspan>, () =&gt;</text>
-      <text x="800" y="196"><tspan fill="#86EFAC">"Hello, I'm Vikash"</tspan>);</text>
-      <text x="780" y="236">app.<tspan fill="#60A5FA">Run</tspan>();</text>
+      <text x="780" y="140"><tspan fill="#FDBA74">var</tspan> app = builder.<tspan fill="#FBBF24">Build</tspan>();</text>
+      <text x="780" y="168">app.<tspan fill="#FBBF24">MapGet</tspan>(<tspan fill="#FCD34D">"/api/hi"</tspan>, () =&gt;</text>
+      <text x="800" y="196"><tspan fill="#FCD34D">"Hello, I'm Vikash"</tspan>);</text>
+      <text x="780" y="236">app.<tspan fill="#FBBF24">Run</tspan>();</text>
     </g>
   </g>
 </svg>

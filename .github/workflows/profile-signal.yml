@@ -1,8 +1,11 @@
-name: Update contribution signal
+name: Update Signal
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */6 * * *"   # every 6 hours
+  push:
+    branches: [main]
+    paths: ["scripts/profile_signal.py"]
   workflow_dispatch:
 
 permissions:
@@ -15,15 +18,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate profile/activity.svg
+      - name: Generate Signal cards (activity, streak, stats, top languages)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/profile_signal.py --user "${{ github.repository_owner }}" --out profile/activity.svg
+        run: python3 scripts/profile_signal.py --user "${{ github.repository_owner }}" --out-dir profile
 
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/activity.svg
-          git diff --cached --quiet || git commit -m "chore: refresh contribution signal"
+          git add profile/*.svg
+          git diff --cached --quiet || git commit -m "chore: refresh Signal cards"
           git push
