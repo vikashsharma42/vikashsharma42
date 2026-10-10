@@ -14,6 +14,8 @@
 
 <sub>Open to .NET backend roles · Gurugram, Haryana, India · remote-friendly</sub>
 
+<sub>[About](#-cat-vikashspecyml) · [Stack](#tech-stack) · [Approach](#how-i-build-backends) · [Projects](#featured-projects) · [Signal](#signal) · [Contact](#lets-connect)</sub>
+
 </div>
 
 <br/>
@@ -25,6 +27,8 @@ name:        Vikash Kumar
 role:        .NET Backend Developer
 experience:  2+ years building secure, high-performance web apps and REST APIs
 location:    Gurugram, Haryana, India (UTC+05:30)
+status:      open to .NET backend roles, remote-friendly
+github:      Pull Shark x2, YOLO
 education:
   - MCA (pursuing), SRM University, Chennai
   - BCA, Dr. K. N. Modi Institute of Engineering & Technology, Modinagar
@@ -132,7 +136,16 @@ More on my [portfolio](https://developervikashkumar.vercel.app/).
 
 ## Let's connect
 
-I like talking about backend architecture, APIs, Azure and .NET. The fastest way to reach me is [email](mailto:vikashkumarjh2009@gmail.com) or [LinkedIn](https://www.linkedin.com/in/developer-vikash).
+I like talking about backend architecture, APIs, Azure and .NET, and I'm open to .NET backend roles.
+
+| Channel | Link |
+| --- | --- |
+| **Portfolio** | [developervikashkumar.vercel.app](https://developervikashkumar.vercel.app/) |
+| **Email** | [vikashkumarjh2009@gmail.com](mailto:vikashkumarjh2009@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/developer-vikash](https://www.linkedin.com/in/developer-vikash) |
+| **X** | [@_Mr_Vikash](https://twitter.com/_Mr_Vikash) |
+
+The fastest way to reach me is email or LinkedIn.
 
 <div align="center">
 
