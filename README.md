@@ -6,80 +6,20 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-developervikashkumar.vercel.app-F97316?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0C0A09)](https://developervikashkumar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-developer--vikash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C0A09)](https://www.linkedin.com/in/developer-vikash)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0A09)](mailto:vikashkumarjh2009@gmail.com)
-[![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0C0A09)](https://twitter.com/_Mr_Vikash)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0C0A09)](https://instagram.com/_bhabhan_52)
-
-<sub>Open to .NET backend roles · Gurugram, Haryana, India · remote-friendly</sub>
-
-<sub>[About](#-cat-vikashspecyml) · [Education](#education) · [Stack](#tech-stack) · [Projects](#featured-projects) · [Growth](#growth--momentum) · [Achievements](#achievements) · [Contact](#lets-connect)</sub>
-
-<br/>
-
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/tech-ticker.svg" alt="Tech stack ticker" width="100%" />
-
-<br/>
-
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/open-to-work.svg" alt="Open to .NET backend roles" width="100%" />
 
 <br/>
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/code-rain.svg" alt="Vikash Kumar, .NET Backend Developer" width="100%" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-developervikashkumar.vercel.app-F97316?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0C0A09)](https://developervikashkumar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-developer--vikash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C0A09)](https://www.linkedin.com/in/developer-vikash)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0A09)](mailto:vikashkumarjh2009@gmail.com)
+[![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0C0A09)](https://twitter.com/_Mr_Vikash)
+
+<sub>[At a glance](#at-a-glance) · [Projects](#featured-projects) · [Stack](#tech-stack) · [How I build](#how-i-build) · [Education](#education) · [Activity](#activity) · [Contact](#lets-connect)</sub>
 
 </div>
 
 <br/>
-
-## `$ cat vikash.spec.yml`
-
-```yaml
-name:        Vikash Kumar
-role:        .NET Backend Developer
-experience:  2+ years building secure, high-performance web apps and REST APIs
-location:    Gurugram, Haryana, India (UTC+05:30)
-status:      open to .NET backend roles, remote-friendly
-github:      Pull Shark x3, Quickdraw, YOLO
-
-what_i_do:
-  - build REST APIs and web applications with C# and ASP.NET Core
-  - design SQL Server schemas, stored procedures and fast queries
-  - migrate legacy SOAP services to REST
-  - deploy and run apps on Microsoft Azure
-  - write clean, maintainable code with SOLID principles
-
-dotnet_toolbox: [ASP.NET MVC, Razor Pages, EF Core, Dapper, LINQ, ADO.NET, Azure Functions]
-also_work_with: [Java, Spring Boot, Hibernate, JSP, MySQL]
-
-currently_learning:
-  - Microservices & Kubernetes
-  - GraphQL in C# (Hot Chocolate)
-  - Azure advanced services
-  - SignalR real-time apps
-```
-
-<div align="center">
-
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/terminal.svg" alt="Animated terminal: creating, migrating and deploying a .NET API to Azure" width="100%" />
-
-<br/>
-
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/code-card.svg" alt="Animated C# minimal API code" width="100%" />
-
-<br/>
-
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/api-flow.svg" alt="Animated request flow from client to ASP.NET Core API, SQL Server and Azure" width="100%" />
-
-<br/>
-
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/layers.svg" alt="Animated n-tier architecture: controllers, services, repositories, SQL Server" width="100%" />
-
-<br/>
-
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/stat-tiles.svg" alt="2+ years, 8 projects, 3 GitHub achievements" width="100%" />
-
-</div>
 
 <div align="center">
 
@@ -87,17 +27,52 @@ currently_learning:
 
 </div>
 
-## Education
+## At a glance
 
 <div align="center">
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/journey.svg" alt="Academic journey 2018 to 2025" width="100%" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/stat-tiles.svg" alt="2+ years, 8 projects, 3 GitHub achievements" width="100%" />
+
+</div>
+
+```yaml
+role:        .NET Backend Developer
+experience:  2+ years building secure, high-performance web apps and REST APIs
+location:    Gurugram, Haryana, India (UTC+05:30), remote-friendly
+status:      open to .NET backend roles
+
+what_i_do:
+  - build REST APIs and web applications with C# and ASP.NET Core
+  - design SQL Server schemas, stored procedures and fast queries
+  - migrate legacy SOAP services to REST
+  - deploy and run apps on Microsoft Azure
+  - write clean, maintainable code with SOLID principles
+```
 
 <br/>
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/education.svg" width="100%" alt="Education: MCA at SRMIST, BCA at Dr. K. N. Modi Institute, Intermediate at Jehanabad College, High School at Utkramit Madhyamik School" />
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
 
 </div>
+
+## Featured projects
+
+<div align="center">
+
+<a href="https://github.com/vikashsharma42/KnowledgeBase.Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=KnowledgeBase.Hub&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="KnowledgeHub" /></a>
+<a href="https://github.com/vikashsharma42/Image-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Image-downloader&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Image Downloader" /></a>
+<a href="https://github.com/vikashsharma42/BankApp2_SpringBoot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=BankApp2_SpringBoot&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Online Banking App" /></a>
+<a href="https://github.com/vikashsharma42/Hibernate-JSp-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Hibernate-JSp-Projects&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="IRCTC eTicketing App" /></a>
+
+<br/>
+
+<sub>Live from GitHub · <a href="https://developervikashkumar.vercel.app/">More on my portfolio</a></sub>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -108,6 +83,10 @@ currently_learning:
 ## Tech stack
 
 <div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/tech-ticker.svg" alt="Tech stack ticker" width="100%" />
+
+<br/>
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/orbit.svg" alt="Orbiting tech stack around .NET" width="100%" />
 
@@ -143,13 +122,7 @@ currently_learning:
 <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" title="Kubernetes" />
 <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" title="GraphQL" />
 
-</div>
-
-<br/>
-
-## Currently learning
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/learning.svg" alt="Currently learning: Microservices and Kubernetes, GraphQL, advanced Azure, SignalR" width="100%" />
 
@@ -157,20 +130,29 @@ currently_learning:
 
 <br/>
 
-## Featured projects
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## How I build
 
 <div align="center">
 
-<a href="https://github.com/vikashsharma42/KnowledgeBase.Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=KnowledgeBase.Hub&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="KnowledgeHub" /></a>
-<a href="https://github.com/vikashsharma42/Image-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Image-downloader&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Image Downloader" /></a>
-<a href="https://github.com/vikashsharma42/BankApp2_SpringBoot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=BankApp2_SpringBoot&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Online Banking App" /></a>
-<a href="https://github.com/vikashsharma42/Hibernate-JSp-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Hibernate-JSp-Projects&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="IRCTC eTicketing App" /></a>
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/code-card.svg" alt="Animated C# minimal API code" width="100%" />
 
 <br/>
 
-<sub>Live from GitHub · <a href="https://developervikashkumar.vercel.app/">More on my portfolio</a></sub>
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/api-flow.svg" alt="Animated request flow from client to ASP.NET Core API, SQL Server and Azure" width="100%" />
+
+<br/>
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/layers.svg" alt="Animated n-tier architecture: controllers, services, repositories, SQL Server" width="100%" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -178,22 +160,40 @@ currently_learning:
 
 </div>
 
-## Growth & momentum
+## Education
 
 <div align="center">
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/activity.svg" width="100%" alt="Contribution activity" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/journey.svg" alt="Academic journey 2018 to 2025" width="100%" />
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/streak.svg" width="100%" alt="Contribution streak" />
+<br/>
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/stats.svg" width="49%" alt="GitHub stats" />
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" width="49%" alt="Top languages" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/education.svg" alt="Education: MCA at SRMIST, BCA at Dr. K. N. Modi Institute, Intermediate at Jehanabad College, High School at Utkramit Madhyamik School" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/activity.svg" alt="Contribution activity" width="100%" />
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/streak.svg" alt="Contribution streak" width="100%" />
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/stats.svg" alt="GitHub stats" width="49%" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" alt="Top languages" width="49%" />
 
 <img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 <img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contributions" width="100%" />
-
-<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/breakout-contribution-graph-dark.svg" alt="Breakout game on my contribution graph" width="100%" />
 
 <br/>
 
@@ -214,6 +214,8 @@ currently_learning:
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
@@ -231,6 +233,8 @@ currently_learning:
 <sub>Pull Shark ×3 · Quickdraw · YOLO</sub>
 
 </div>
+
+<br/>
 
 <div align="center">
 
