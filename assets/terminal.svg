@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" font-family="JetBrains Mono, Consolas, monospace">
+<style>
+.l{opacity:0;animation:show 9.2s infinite}
+@keyframes show{0%{opacity:0}3%{opacity:1}90%{opacity:1}100%{opacity:0}}
+.c{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="860" height="250" rx="12" fill="#0C0A09" stroke="#292524"/>
+<rect width="860" height="34" rx="12" fill="#1c1917"/><rect y="20" width="860" height="14" fill="#1c1917"/>
+<circle cx="22" cy="17" r="6" fill="#EF4444"/><circle cx="42" cy="17" r="6" fill="#F59E0B"/><circle cx="62" cy="17" r="6" fill="#22C55E"/>
+<text x="430" y="22" text-anchor="middle" font-size="12" fill="#78716C">vikash@dotnet: ~/projects</text>
+<text x="24" y="62" font-size="14" fill="#FDBA74" class="l" style="animation-delay:0.0s">$ dotnet new webapi -n KnowledgeHub</text><text x="24" y="92" font-size="14" fill="#9CA3AF" class="l" style="animation-delay:1.2s">The template "ASP.NET Core Web API" was created successfully.</text><text x="24" y="122" font-size="14" fill="#FDBA74" class="l" style="animation-delay:2.4s">$ dotnet ef database update</text><text x="24" y="152" font-size="14" fill="#9CA3AF" class="l" style="animation-delay:3.6s">Applying migration... Done.</text><text x="24" y="182" font-size="14" fill="#FDBA74" class="l" style="animation-delay:4.8s">$ az webapp up --name knowledgehub</text><text x="24" y="212" font-size="14" fill="#4ADE80" class="l" style="animation-delay:6.0s">Deployed to Azure. API is live.</text>
+<rect class="c" x="24" y="228" width="9" height="16" fill="#F97316"/>
+</svg>
