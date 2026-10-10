@@ -1,0 +1,20 @@
+role:        .NET Backend Developer
+experience:  2+ years building enterprise-grade applications
+location:    Gurugram, Haryana, India
+
+domains:     [banking, e-commerce, healthcare, saas, logistics]
+
+what_i_build:
+  - production REST APIs with ASP.NET Core
+  - SQL Server schemas designed to stay fast as data grows
+  - Azure deployments: App Services, Functions, DevOps pipelines
+  - clean layered backends with SOLID, Repository Pattern, DI
+
+currently_learning:
+  - microservices patterns and Kubernetes
+  - GraphQL in C# using Hot Chocolate
+  - Azure Service Bus and Event Hubs
+  - SignalR for real-time applications
+
+ask_me_about:
+  [ASP.NET Core, C#, SQL Server, Entity Framework, Azure, REST API design]
