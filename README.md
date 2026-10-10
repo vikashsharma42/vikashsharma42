@@ -83,27 +83,6 @@ what_i_do:
 
 </div>
 
-**Webority Technologies** · .NET Developer / Backend Developer · June 2024 to present
-
-**Lumex, SaaS lightning protection product** (Aug 2026 to present)
-- Built the Customer API for Clients, Projects, Assessments, Reports, Reviews, Inspections and Team modules
-- Implemented registration, login, forgot password and MFA, plus assessment calculations and team management
-- Built custom PDF reports with QuestPDF and the report approval flow
-
-**FoodMe, restaurant management application** (Nov 2025 to Jul 2026)
-- Backend for an ecosystem serving 200+ restaurants and 300+ locations in Canada
-- Built REST endpoints for menu management, order processing and customer workflows, and supported the SOAP (.asmx) to REST migration
-- Built delivery-failure recovery (order recreation and reassignment) and Twilio SMS-based MFA
-- Resolved production issues across API, backend and database layers through root-cause analysis
-
-**Lightning Protection Risk Assessment Suite** (Mar 2025 to Oct 2025)
-- Built the app on .NET 9 and Razor Pages following the IEC 62305-2:2024 standard
-- Implemented the risk calculation logic, multi-step wizard forms, risk graphs and reports with safety recommendations
-- Designed normalized SQL Server schemas with Entity Framework Core
-
-**DPSG School, Ghaziabad** (Oct 2024 to Feb 2025)
-- Built school management modules with ASP.NET Core Razor Pages and C#, plus REST APIs and SQL Server data access
-
 <div align="center">
 
 [![Download resume](https://img.shields.io/badge/Download-Resume_PDF-22C55E?style=for-the-badge&labelColor=0C0A09)](https://github.com/vikashsharma42/vikashsharma42/blob/main/resume/Vikash_Kumar_Resume.pdf)
@@ -151,25 +130,7 @@ Personal project. A RAG API built with ASP.NET Core. Users upload PDFs and ask n
 
 </div>
 
-**Architecture**
-- `KnowledgeHub.API`: JWT-secured REST API
-- `KnowledgeHub.AI`: Gemini-powered pipeline for document processing, embeddings and question answering
-- Interface-driven AI layer, so providers and vector stores can be swapped without touching controllers
-
-**Security and reliability**
-- JWT Bearer authentication
-- Rate limiting: 120 requests/min per IP globally, 10 requests/min per IP on AI endpoints
-- Centralized error handling that returns safe responses and hides provider names
-- Security headers, HTTPS redirection, HSTS in production, Brotli and Gzip compression, configurable CORS
-- `/health` endpoint and interactive API docs with Scalar
-
-**Stack:** ASP.NET Core · Gemini (`gemini-embedding-001`, `gemini-2.0-flash`) · PdfPig · ASP.NET Core Rate Limiting · Scalar
-
 [View on GitHub](https://github.com/vikashsharma42/KnowledgeBase.Hub)
-
-<br/>
-
-**Also built: Image Downloader.** A real-time dashboard that scrapes gallery pages with Puppeteer (it auto-scrolls to load lazy images and filters duplicates), downloads them with Axios, and streams live progress to the browser over Socket.IO. Stack: Node.js, Express, Socket.IO, Puppeteer. [View on GitHub](https://github.com/vikashsharma42/Image-downloader)
 
 <br/>
 
