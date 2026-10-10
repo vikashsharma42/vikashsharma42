@@ -50,17 +50,7 @@ currently_learning:
 <br/>
 
 ## Education
-
-<div align="center">
-
-| When | What | Where |
-| :--- | :--- | :--- |
-| **YYYY – Present** | **MCA** (pursuing) | SRM University, Chennai |
-| **YYYY – YYYY** | **BCA** | Dr. K. N. Modi Institute of Engineering & Technology, Modinagar |
-
-</div>
-
-<sub>Replace YYYY with your start and end years.</sub>
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/education.svg" width="100%" alt="Education" />
 
 <br/>
 
