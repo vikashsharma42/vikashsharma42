@@ -28,7 +28,7 @@ role:        .NET Backend Developer
 experience:  2+ years building secure, high-performance web apps and REST APIs
 location:    Gurugram, Haryana, India (UTC+05:30)
 status:      open to .NET backend roles, remote-friendly
-github:      Pull Shark x2, YOLO
+github:      Pull Shark x3, Quickdraw, YOLO
 education:
   - MCA (pursuing), SRM University, Chennai
   - BCA, Dr. K. N. Modi Institute of Engineering & Technology, Modinagar
@@ -106,6 +106,8 @@ currently_learning:
 
 | Project | What it is | Code |
 | --- | --- | --- |
+| **KnowledgeHub** | RAG API built with ASP.NET Core: upload PDFs and ask questions about them. JWT auth, rate limiting, Gemini embeddings and chat | [KnowledgeBase.Hub](https://github.com/vikashsharma42/KnowledgeBase.Hub) |
+| **Image Downloader** | Real-time image downloader that scrapes gallery pages with Puppeteer and streams progress over Socket.IO | [Image-downloader](https://github.com/vikashsharma42/Image-downloader) |
 | **IRCTC eTicketing App** | Train ticket booking app built with Java, Hibernate and JSP | [Hibernate-JSp-Projects](https://github.com/vikashsharma42/Hibernate-JSp-Projects) |
 | **Online Banking App** | Banking application built with Spring Boot | [BankApp2_SpringBoot](https://github.com/vikashsharma42/BankApp2_SpringBoot) |
 | **Banking App** | Core banking operations app | [Banking-App](https://github.com/vikashsharma42/Banking-App) |
@@ -129,6 +131,20 @@ More on my [portfolio](https://developervikashkumar.vercel.app/).
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" alt="Top languages" width="49%" />
 
 <img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+</div>
+
+<br/>
+
+## Achievements
+
+<div align="center">
+
+<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/pull-shark.png" height="88" alt="Pull Shark x3" title="Pull Shark x3" /></a>&nbsp;&nbsp;
+<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/quickdraw.png" height="88" alt="Quickdraw" title="Quickdraw" /></a>&nbsp;&nbsp;
+<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/yolo.png" height="88" alt="YOLO" title="YOLO" /></a>
+
+<sub>Pull Shark ×3 · Quickdraw · YOLO</sub>
 
 </div>
 
