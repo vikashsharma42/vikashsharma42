@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="262" viewBox="0 0 490 262" role="img" aria-labelledby="t d">
+<title id="t">GitHub stats</title><desc id="d">Commits, pull requests, issues, reviews, repositories, stars and followers.</desc>
+<defs><style>.sans{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}</style></defs>
+<rect x="1" y="1" width="488" height="260" rx="18" fill="#0C0A09" stroke="#292524"/>
+<text x="30" y="46" class="sans" font-size="20" font-weight="700" fill="#FAFAF9">GitHub stats</text>
+<rect x="30" y="56" width="36" height="3" rx="1.5" fill="#F97316"/>
+<circle cx="38" cy="87" r="4" fill="#F97316"/>
+<text x="54" y="92" class="sans" font-size="15" fill="#A8A29E">Commits (12 months)</text>
+<text x="460" y="92" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">96</text>
+<circle cx="38" cy="112" r="4" fill="#F97316"/>
+<text x="54" y="117" class="sans" font-size="15" fill="#A8A29E">Pull requests</text>
+<text x="460" y="117" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">29</text>
+<circle cx="38" cy="137" r="4" fill="#F97316"/>
+<text x="54" y="142" class="sans" font-size="15" fill="#A8A29E">Issues</text>
+<text x="460" y="142" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">0</text>
+<circle cx="38" cy="162" r="4" fill="#F97316"/>
+<text x="54" y="167" class="sans" font-size="15" fill="#A8A29E">Code reviews</text>
+<text x="460" y="167" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">0</text>
+<circle cx="38" cy="187" r="4" fill="#F97316"/>
+<text x="54" y="192" class="sans" font-size="15" fill="#A8A29E">Public repositories</text>
+<text x="460" y="192" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">13</text>
+<circle cx="38" cy="212" r="4" fill="#F97316"/>
+<text x="54" y="217" class="sans" font-size="15" fill="#A8A29E">Stars earned</text>
+<text x="460" y="217" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">4</text>
+<circle cx="38" cy="237" r="4" fill="#F97316"/>
+<text x="54" y="242" class="sans" font-size="15" fill="#A8A29E">Followers</text>
+<text x="460" y="242" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">2</text>
+</svg>

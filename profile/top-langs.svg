@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="262" viewBox="0 0 490 262" role="img" aria-labelledby="t d">
+<title id="t">Top languages</title><desc id="d">Language share across public, non-fork repositories: JavaScript 32%, HTML 22%, C# 22%, Java 20%, Python 3%, CSS 2%</desc>
+<defs><style>.sans{font-family:'Segoe UI',Inter,'Helvetica Neue',Arial,sans-serif}.mono{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}</style></defs>
+<rect x="1" y="1" width="488" height="260" rx="18" fill="#0C0A09" stroke="#292524"/>
+<text x="30" y="46" class="sans" font-size="20" font-weight="700" fill="#FAFAF9">Top languages</text>
+<rect x="30" y="56" width="36" height="3" rx="1.5" fill="#F97316"/>
+<clipPath id="bar"><rect x="30" y="76" width="430" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
+<rect x="30.0" y="76" width="138.2" height="10" fill="#F97316"/>
+<rect x="167.7" y="76" width="93.9" height="10" fill="#FBBF24"/>
+<rect x="261.2" y="76" width="93.7" height="10" fill="#FB7185"/>
+<rect x="354.4" y="76" width="85.5" height="10" fill="#FDBA74"/>
+<rect x="439.4" y="76" width="14.1" height="10" fill="#EA580C"/>
+<rect x="453.0" y="76" width="7.5" height="10" fill="#FDE68A"/>
+</g>
+<circle cx="38" cy="113" r="5" fill="#F97316"/>
+<text x="54" y="118" class="sans" font-size="15" fill="#A8A29E">JavaScript</text>
+<text x="460" y="118" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">32.0%</text>
+<circle cx="38" cy="137" r="5" fill="#FBBF24"/>
+<text x="54" y="142" class="sans" font-size="15" fill="#A8A29E">HTML</text>
+<text x="460" y="142" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">21.7%</text>
+<circle cx="38" cy="161" r="5" fill="#FB7185"/>
+<text x="54" y="166" class="sans" font-size="15" fill="#A8A29E">C#</text>
+<text x="460" y="166" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">21.7%</text>
+<circle cx="38" cy="185" r="5" fill="#FDBA74"/>
+<text x="54" y="190" class="sans" font-size="15" fill="#A8A29E">Java</text>
+<text x="460" y="190" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">19.8%</text>
+<circle cx="38" cy="209" r="5" fill="#EA580C"/>
+<text x="54" y="214" class="sans" font-size="15" fill="#A8A29E">Python</text>
+<text x="460" y="214" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">3.2%</text>
+<circle cx="38" cy="233" r="5" fill="#FDE68A"/>
+<text x="54" y="238" class="sans" font-size="15" fill="#A8A29E">CSS</text>
+<text x="460" y="238" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">1.6%</text>
+</svg>
