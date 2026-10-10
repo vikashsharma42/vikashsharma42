@@ -8,19 +8,15 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-developervikashkumar.vercel.app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://developervikashkumar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-developer--vikash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/developer-vikash)
-[![Email](https://img.shields.io/badge/Email-vikashkumarjh2009@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:vikashkumarjh2009@gmail.com)
-<br/>
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:vikashkumarjh2009@gmail.com)
 [![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117)](https://twitter.com/_Mr_Vikash)
-[![Instagram](https://img.shields.io/badge/Instagram-_bhabhan__52-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/_bhabhan_52)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://instagram.com/_bhabhan_52)
 
-![Profile views](https://komarev.com/ghpvc/?username=vikashsharma42&label=profile%20views&color=7C3AED&style=flat-square)
-![Followers](https://img.shields.io/github/followers/vikashsharma42?label=followers&style=flat-square&color=7C3AED)
-
-**Open to .NET backend roles.** Gurugram, Haryana, India · remote-friendly
+<sub>Open to .NET backend roles · Gurugram, Haryana, India · remote-friendly</sub>
 
 </div>
 
----
+<br/>
 
 ## `$ cat vikash.spec.yml`
 
@@ -40,6 +36,7 @@ what_i_do:
   - deploy and run apps on Microsoft Azure
   - write clean, maintainable code with SOLID principles
 
+dotnet_toolbox: [ASP.NET MVC, Razor Pages, EF Core, Dapper, LINQ, ADO.NET, Azure Functions]
 also_work_with: [Java, Spring Boot, Hibernate, JSP, MySQL]
 
 currently_learning:
@@ -49,66 +46,59 @@ currently_learning:
   - SignalR real-time apps
 ```
 
----
+<br/>
 
-## 🛠️ Tech stack
+## Tech stack
 
-**.NET & backend**
+<div align="center">
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Razor Pages](https://img.shields.io/badge/Razor%20Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<sub><b>BACKEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" title="C#" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="ASP.NET Core" title="ASP.NET Core" />
+<img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot" title="Spring Boot" />
 
-**Databases**
+<sub><b>DATA</b></sub><br/>
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/icons/sqlserver.svg" height="48" alt="SQL Server" title="SQL Server" />
+<img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" title="MySQL" />
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<sub><b>CLOUD</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=azure" height="48" alt="Microsoft Azure" title="Microsoft Azure" />
 
-**Cloud**
+<sub><b>FRONTEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" title="Bootstrap" />
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=azure-functions&logoColor=white)
+<sub><b>TOOLS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="Visual Studio" title="Visual Studio" />
+<img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" title="VS Code" />
+<img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" title="Postman" />
 
-**Java**
+<sub><b>LEARNING</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" title="Kubernetes" />
+<img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" title="GraphQL" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+</div>
 
-**Frontend (support)**
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## How I build backends
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🧱 How I build backends
-
-| Area | What I use |
+| Area | Approach |
 | --- | --- |
 | **API design** | REST APIs with ASP.NET Core, SOAP to REST migration |
-| **Architecture** | N-tier architecture, Repository pattern, SOLID principles |
+| **Architecture** | N-tier layering, Repository pattern, SOLID principles |
 | **Data access** | EF Core for productivity, Dapper and ADO.NET for hot paths |
-| **Database** | SQL Server, stored procedures, query tuning |
+| **Database** | SQL Server schemas, stored procedures, query tuning |
 | **Cloud** | Azure App Service and Azure Functions |
 
----
+<br/>
 
-## 💼 Featured projects
+## Featured projects
 
 | Project | What it is | Code |
 | --- | --- | --- |
@@ -121,31 +111,33 @@ currently_learning:
 
 More on my [portfolio](https://developervikashkumar.vercel.app/).
 
----
+<br/>
 
-## 📊 GitHub stats
+## Signal
 
 <div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/activity.svg" alt="Contribution signal for the last six months" width="100%" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&border_color=7C3AED&count_private=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma42&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&border_color=7C3AED&langs_count=8" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=vikashsharma42&theme=tokyonight&background=0d1117&border=7C3AED&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" alt="Contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashsharma42&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=7C3AED&point=FF6B6B&area=true&hide_border=false" alt="Contribution activity" />
-
 ![Snake animation](https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg)
 
 </div>
 
----
+<br/>
 
-## 🤝 Let's connect
+## Let's connect
 
 I like talking about backend architecture, APIs, Azure and .NET. The fastest way to reach me is [email](mailto:vikashkumarjh2009@gmail.com) or [LinkedIn](https://www.linkedin.com/in/developer-vikash).
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:7C3AED,100:A78BFA&height=110&section=footer" alt="" />
+
+![Profile views](https://komarev.com/ghpvc/?username=vikashsharma42&label=profile%20views&color=7C3AED&style=flat-square)
 
 </div>
