@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="280" viewBox="0 0 860 280" font-family="JetBrains Mono, Consolas, monospace">
+<style>.c{animation:u 6s ease-in-out infinite}@keyframes u{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}</style><g class="c" style="animation-delay:0.0s"><rect x="20" y="20" width="400" height="110" rx="12" fill="#1c1410" stroke="#292524"/>
+<rect x="20" y="20" width="4" height="110" rx="2" fill="#F97316"/>
+<g transform="translate(48,50)" fill="none" stroke="#F97316" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 8 L8 14 V24 C8 33 14 39 20 42 C26 39 32 33 32 24 V14 Z"/></g>
+<text x="104" y="70" font-size="17" font-weight="700" fill="#FDBA74">Secure REST APIs</text>
+<text x="104" y="96" font-size="12" fill="#A8A29E">ASP.NET Core · JWT auth · validation</text>
+<rect x="20" y="127" width="90" height="3" rx="1.5" fill="#F97316"><animate attributeName="x" values="20;330;20" dur="4.0s" repeatCount="indefinite"/></rect></g><g class="c" style="animation-delay:0.25s"><rect x="440" y="20" width="400" height="110" rx="12" fill="#1c1410" stroke="#292524"/>
+<rect x="440" y="20" width="4" height="110" rx="2" fill="#F97316"/>
+<g transform="translate(468,50)" fill="none" stroke="#F97316" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 14 C8 10 32 10 32 14 V34 C32 38 8 38 8 34 Z M8 24 C8 28 32 28 32 24"/></g>
+<text x="524" y="70" font-size="17" font-weight="700" fill="#FDBA74">Fast databases</text>
+<text x="524" y="96" font-size="12" fill="#A8A29E">SQL Server · stored procs · tuning</text>
+<rect x="440" y="127" width="90" height="3" rx="1.5" fill="#F97316"><animate attributeName="x" values="440;750;440" dur="4.5s" repeatCount="indefinite"/></rect></g><g class="c" style="animation-delay:0.5s"><rect x="20" y="150" width="400" height="110" rx="12" fill="#1c1410" stroke="#292524"/>
+<rect x="20" y="150" width="4" height="110" rx="2" fill="#F97316"/>
+<g transform="translate(48,180)" fill="none" stroke="#F97316" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 20 H28 M22 13 L29 20 L22 27 M32 32 H12 M18 25 L11 32 L18 39"/></g>
+<text x="104" y="200" font-size="17" font-weight="700" fill="#FDBA74">Legacy to modern</text>
+<text x="104" y="226" font-size="12" fill="#A8A29E">SOAP services migrated to REST</text>
+<rect x="20" y="257" width="90" height="3" rx="1.5" fill="#F97316"><animate attributeName="x" values="20;330;20" dur="5.0s" repeatCount="indefinite"/></rect></g><g class="c" style="animation-delay:0.75s"><rect x="440" y="150" width="400" height="110" rx="12" fill="#1c1410" stroke="#292524"/>
+<rect x="440" y="150" width="4" height="110" rx="2" fill="#F97316"/>
+<g transform="translate(468,180)" fill="none" stroke="#F97316" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 34 C5 34 5 24 12 24 C12 16 26 14 29 22 C37 21 38 34 30 34 Z"/></g>
+<text x="524" y="200" font-size="17" font-weight="700" fill="#FDBA74">Cloud-ready</text>
+<text x="524" y="226" font-size="12" fill="#A8A29E">Azure App Service · Azure Functions</text>
+<rect x="440" y="257" width="90" height="3" rx="1.5" fill="#F97316"><animate attributeName="x" values="440;750;440" dur="5.5s" repeatCount="indefinite"/></rect></g></svg>
