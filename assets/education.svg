@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="581" height="587" viewBox="0 0 581 587" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#8b8cf7"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="581" height="587" fill="#0a0d17"/>
+
+  <!-- heading -->
+  <text x="2" y="32" font-size="20" font-weight="700" fill="#7b7ff0">Education</text>
+  <rect x="2" y="46" width="36" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="2" y="64" font-size="11" fill="#9aa3c7">My academic background.</text>
+
+  <!-- timeline spine -->
+  <rect x="3.5" y="90" width="1.5" height="450" fill="url(#spine)"/>
+
+  <!-- card 1: MCA -->
+  <rect x="17.5" y="86.5" width="496" height="101" rx="10" fill="#111629" stroke="#262c44"/>
+  <circle cx="4" cy="104" r="3.5" fill="#6366f1" stroke="#0a0d17" stroke-width="1.5"/>
+  <text x="33" y="114" font-size="13" font-weight="700" fill="#f0f0f8">Master of Computer Applications (MCA)</text>
+  <text x="497" y="114" font-size="9" fill="#7f8cf0" text-anchor="end">2025 – Present</text>
+  <path d="M33 124 L40 121 L47 124 L40 127 Z" fill="#7f8cf0"/>
+  <path d="M36 126 L36 129 Q40 131 44 129 L44 126 L40 128 Z" fill="#7f8cf0"/>
+  <text x="51" y="134" font-size="10.5" fill="#aab0cc">SRM Institute of Science and Technology (SRMIST)</text>
+  <circle cx="37" cy="152" r="3" fill="#7f8cf0"/>
+  <path d="M37 155 L34.5 151 Q37 147 39.5 151 Z" fill="#7f8cf0"/>
+  <text x="47" y="158" font-size="10.5" fill="#aab0cc">Chennai</text>
+
+  <!-- card 2: BCA -->
+  <rect x="17.5" y="204.5" width="496" height="101" rx="10" fill="#111629" stroke="#262c44"/>
+  <circle cx="4" cy="222" r="3.5" fill="#6366f1" stroke="#0a0d17" stroke-width="1.5"/>
+  <text x="33" y="232" font-size="13" font-weight="700" fill="#f0f0f8">Bachelor of Computer Applications (BCA)</text>
+  <text x="497" y="232" font-size="9" fill="#7f8cf0" text-anchor="end">2021 – 2024</text>
+  <path d="M33 242 L40 239 L47 242 L40 245 Z" fill="#7f8cf0"/>
+  <path d="M36 244 L36 247 Q40 249 44 247 L44 244 L40 246 Z" fill="#7f8cf0"/>
+  <text x="51" y="252" font-size="10.5" fill="#aab0cc">Dr. K. N. Modi Institute of Engineering &amp; Technology</text>
+  <circle cx="37" cy="270" r="3" fill="#7f8cf0"/>
+  <path d="M37 273 L34.5 269 Q37 265 39.5 269 Z" fill="#7f8cf0"/>
+  <text x="47" y="276" font-size="10.5" fill="#aab0cc">Modinagar</text>
+
+  <!-- card 3: Intermediate -->
+  <rect x="17.5" y="322.5" width="496" height="101" rx="10" fill="#111629" stroke="#262c44"/>
+  <circle cx="4" cy="340" r="3.5" fill="#6366f1" stroke="#0a0d17" stroke-width="1.5"/>
+  <text x="33" y="350" font-size="13" font-weight="700" fill="#f0f0f8">Intermediate</text>
+  <text x="497" y="350" font-size="9" fill="#7f8cf0" text-anchor="end">2019 – 2021</text>
+  <path d="M33 360 L40 357 L47 360 L40 363 Z" fill="#7f8cf0"/>
+  <path d="M36 362 L36 365 Q40 367 44 365 L44 362 L40 364 Z" fill="#7f8cf0"/>
+  <text x="51" y="370" font-size="10.5" fill="#aab0cc">Jehanabad College</text>
+  <circle cx="37" cy="388" r="3" fill="#7f8cf0"/>
+  <path d="M37 391 L34.5 387 Q37 383 39.5 387 Z" fill="#7f8cf0"/>
+  <text x="47" y="394" font-size="10.5" fill="#aab0cc">Jehanabad</text>
+
+  <!-- card 4: High School -->
+  <rect x="17.5" y="441.5" width="496" height="101" rx="10" fill="#111629" stroke="#262c44"/>
+  <circle cx="4" cy="458" r="3.5" fill="#6366f1" stroke="#0a0d17" stroke-width="1.5"/>
+  <text x="33" y="469" font-size="13" font-weight="700" fill="#f0f0f8">High School</text>
+  <text x="497" y="469" font-size="9" fill="#7f8cf0" text-anchor="end">2018 – 2019</text>
+  <path d="M33 479 L40 476 L47 479 L40 482 Z" fill="#7f8cf0"/>
+  <path d="M36 481 L36 484 Q40 486 44 484 L44 481 L40 483 Z" fill="#7f8cf0"/>
+  <text x="51" y="489" font-size="10.5" fill="#aab0cc">Utkramit Madhyamik School</text>
+  <circle cx="37" cy="507" r="3" fill="#7f8cf0"/>
+  <path d="M37 510 L34.5 506 Q37 502 39.5 506 Z" fill="#7f8cf0"/>
+  <text x="47" y="513" font-size="10.5" fill="#aab0cc">Narma</text>
+</svg>
