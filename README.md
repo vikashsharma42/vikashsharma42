@@ -20,6 +20,10 @@
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/tech-ticker.svg" alt="Tech stack ticker" width="100%" />
 
+<br/>
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/open-to-work.svg" alt="Open to .NET backend roles" width="100%" />
+
 </div>
 
 <br/>
@@ -55,9 +59,29 @@ currently_learning:
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/terminal.svg" alt="Animated terminal: creating, migrating and deploying a .NET API to Azure" width="100%" />
 
-</div>
+<br/>
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/code-card.svg" alt="Animated C# minimal API code" width="100%" />
 
 <br/>
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/api-flow.svg" alt="Animated request flow from client to ASP.NET Core API, SQL Server and Azure" width="100%" />
+
+<br/>
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/layers.svg" alt="Animated n-tier architecture: controllers, services, repositories, SQL Server" width="100%" />
+
+<br/>
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/stat-tiles.svg" alt="2+ years, 8 projects, 3 GitHub achievements" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## Education
 
@@ -67,11 +91,19 @@ currently_learning:
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## Tech stack
 
 <div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/orbit.svg" alt="Orbiting tech stack around .NET" width="100%" />
+
+<br/>
 
 <sub><b>BACKEND</b></sub><br/>
 <img src="https://skillicons.dev/icons?i=cs" height="48" alt="C#" title="C#" />
@@ -107,6 +139,16 @@ currently_learning:
 
 <br/>
 
+## Currently learning
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/learning.svg" alt="Currently learning: Microservices and Kubernetes, GraphQL, advanced Azure, SignalR" width="100%" />
+
+</div>
+
+<br/>
+
 ## Featured projects
 
 <div align="center">
@@ -122,7 +164,11 @@ currently_learning:
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## Growth & momentum
 
@@ -156,7 +202,11 @@ currently_learning:
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## Achievements
 
@@ -170,7 +220,11 @@ currently_learning:
 
 </div>
 
-<br/>
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
 
 ## Let's connect
 
