@@ -16,6 +16,10 @@
 
 <sub>[About](#-cat-vikashspecyml) · [Education](#education) · [Stack](#tech-stack) · [Projects](#featured-projects) · [Growth](#growth--momentum) · [Achievements](#achievements) · [Contact](#lets-connect)</sub>
 
+<br/>
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/tech-ticker.svg" alt="Tech stack ticker" width="100%" />
+
 </div>
 
 <br/>
@@ -46,6 +50,12 @@ currently_learning:
   - Azure advanced services
   - SignalR real-time apps
 ```
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/terminal.svg" alt="Animated terminal: creating, migrating and deploying a .NET API to Azure" width="100%" />
+
+</div>
 
 <br/>
 
@@ -186,7 +196,7 @@ I like talking about backend architecture, APIs, Azure and .NET.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0A09,60:F97316,100:FDBA74&height=110&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0A09,60:F97316,100:FDBA74&height=110&section=footer&animation=twinkling" alt="" />
 
 <a href="https://github.com/vikashsharma42?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/vikashsharma42&query=%24.public_repos&label=Public%20repos&style=flat-square&color=F97316" alt="Public repositories" /></a>
 <a href="https://github.com/vikashsharma42?tab=followers"><img src="https://img.shields.io/github/followers/vikashsharma42?label=Followers&style=flat-square&color=F97316" alt="GitHub followers" /></a>
