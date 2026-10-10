@@ -14,7 +14,7 @@
 
 <sub>Open to .NET backend roles · Gurugram, Haryana, India · remote-friendly</sub>
 
-<sub>[About](#-cat-vikashspecyml) · [Stack](#tech-stack) · [Approach](#how-i-build-backends) · [Education](#education) · [Projects](#featured-projects) · [Signal](#signal) · [Contact](#lets-connect)</sub>
+<sub>[About](#-cat-vikashspecyml) · [Education](#education) · [Stack](#tech-stack) · [Approach](#how-i-build-backends) · [Projects](#featured-projects) · [Signal](#signal) · [Contact](#lets-connect)</sub>
 
 </div>
 
@@ -50,7 +50,12 @@ currently_learning:
 <br/>
 
 ## Education
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/education.svg" width="100%" alt="Education" />
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/education.svg" width="100%" alt="Education: MCA at SRMIST, BCA at Dr. K. N. Modi Institute, Intermediate at Jehanabad College, High School at Utkramit Madhyamik School" />
+
+</div>
 
 <br/>
 
@@ -92,16 +97,55 @@ currently_learning:
 
 <br/>
 
+## How I build backends
+
+- **API design:** REST APIs with ASP.NET Core, SOAP to REST migration
+- **Architecture:** N-tier layering, Repository pattern, SOLID principles
+- **Data access:** EF Core for productivity, Dapper and ADO.NET for hot paths
+- **Database:** SQL Server schemas, stored procedures, query tuning
+- **Cloud:** Azure App Service and Azure Functions
+
+<br/>
+
+## Featured projects
+
+**KnowledgeHub:** RAG API built with ASP.NET Core. Upload PDFs and ask questions about them, with JWT auth, rate limiting, Gemini embeddings and chat.
+→ [KnowledgeBase.Hub](https://github.com/vikashsharma42/KnowledgeBase.Hub)
+
+**Image Downloader:** Real-time image downloader that scrapes gallery pages with Puppeteer and streams progress over Socket.IO.
+→ [Image-downloader](https://github.com/vikashsharma42/Image-downloader)
+
+**IRCTC eTicketing App:** Train ticket booking app built with Java, Hibernate and JSP.
+→ [Hibernate-JSp-Projects](https://github.com/vikashsharma42/Hibernate-JSp-Projects)
+
+**Online Banking App:** Banking application built with Spring Boot.
+→ [BankApp2_SpringBoot](https://github.com/vikashsharma42/BankApp2_SpringBoot)
+
+**Banking App:** Core banking operations app.
+→ [Banking-App](https://github.com/vikashsharma42/Banking-App)
+
+**BookStore (User Model):** Book inventory and user-side store flow.
+→ [BookInventoryUserModel](https://github.com/vikashsharma42/BookInventoryUserModel)
+
+**Student Management System:** CRUD app for managing student records.
+→ [Student-Management-System](https://github.com/vikashsharma42/Student-Management-System)
+
+**Tic Tac Toe:** Classic game.
+→ [TIC-TAC-TOE](https://github.com/vikashsharma42/TIC-TAC-TOE)
+
+More on my [portfolio](https://developervikashkumar.vercel.app/).
+
+<br/>
+
 ## Signal
 
 <div align="center">
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/activity.svg" alt="Contribution signal for the last six months" width="100%" />
+<!-- Live images: GitHub fetches these on every view, so they stay current with no workflow. -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashsharma42&theme=dark&hide_border=true&background=0C0A09&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="Contribution streak" width="100%" />
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/streak.svg" alt="Contribution streak" width="100%" />
-
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/stats.svg" alt="GitHub stats" width="49%" />
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" alt="Top languages" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma42&layout=compact&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&text_color=FDBA74" alt="Top languages" width="49%" />
 
 <img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
@@ -125,16 +169,12 @@ currently_learning:
 
 ## Let's connect
 
-I like talking about backend architecture, APIs, Azure and .NET, and I'm open to .NET backend roles.
+I like talking about backend architecture, APIs, Azure and .NET, and I'm open to .NET backend roles. The fastest way to reach me is email or LinkedIn.
 
-| Channel | Link |
-| --- | --- |
-| **Portfolio** | [developervikashkumar.vercel.app](https://developervikashkumar.vercel.app/) |
-| **Email** | [vikashkumarjh2009@gmail.com](mailto:vikashkumarjh2009@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/developer-vikash](https://www.linkedin.com/in/developer-vikash) |
-| **X** | [@_Mr_Vikash](https://twitter.com/_Mr_Vikash) |
-
-The fastest way to reach me is email or LinkedIn.
+- **Portfolio:** [developervikashkumar.vercel.app](https://developervikashkumar.vercel.app/)
+- **Email:** [vikashkumarjh2009@gmail.com](mailto:vikashkumarjh2009@gmail.com)
+- **LinkedIn:** [linkedin.com/in/developer-vikash](https://www.linkedin.com/in/developer-vikash)
+- **X:** [@_Mr_Vikash](https://twitter.com/_Mr_Vikash)
 
 <div align="center">
 
