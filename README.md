@@ -125,6 +125,8 @@ currently_learning:
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/stats.svg" width="49%" alt="GitHub stats" />
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" width="49%" alt="Top languages" />
 
+<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
 <br/>
 
 <img src="https://hits.sh/github.com/vikashsharma42.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=F97316&labelColor=0C0A09" alt="Profile views" />
