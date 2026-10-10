@@ -10,12 +10,13 @@
 
 <br/>
 
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-22C55E?style=for-the-badge&logo=readme&logoColor=white&labelColor=0C0A09)](https://github.com/vikashsharma42/vikashsharma42/blob/main/resume/Vikash_Kumar_Resume.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-developervikashkumar.vercel.app-F97316?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0C0A09)](https://developervikashkumar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-developer--vikash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C0A09)](https://www.linkedin.com/in/developer-vikash)
 [![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0A09)](mailto:vikashkumarjh2009@gmail.com)
 [![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0C0A09)](https://twitter.com/_Mr_Vikash)
 
-<sub>[At a glance](#at-a-glance) · [What I bring](#what-i-bring) · [Projects](#featured-projects) · [Case study](#case-study-knowledgehub) · [Stack](#tech-stack) · [How I build](#how-i-build) · [Education](#education) · [Activity](#activity) · [Contact](#lets-connect)</sub>
+<sub>[At a glance](#at-a-glance) · [Experience](#experience) · [Projects](#personal-projects) · [Stack](#tech-stack) · [Education](#education) · [Activity](#activity) · [Contact](#lets-connect)</sub>
 
 </div>
 
@@ -31,22 +32,23 @@
 
 <div align="center">
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/stat-tiles.svg" alt="2+ years, 8 projects, 3 GitHub achievements" width="100%" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/stat-tiles.svg" alt="2+ years of professional experience, 4 client projects, 300+ restaurant locations supported" width="100%" />
 
 </div>
 
 ```yaml
-role:        .NET Backend Developer
-experience:  2+ years building secure, high-performance web apps and REST APIs
-location:    Gurugram, Haryana, India (UTC+05:30), remote-friendly
+role:        .NET Developer / Backend Developer
+company:     Webority Technologies (June 2024 to present)
+experience:  2+ years building enterprise web apps and REST APIs
+location:    Gurugram, Haryana, India, remote-friendly
 status:      open to .NET backend roles
 
 what_i_do:
-  - build REST APIs and web applications with C# and ASP.NET Core
-  - design SQL Server schemas, stored procedures and fast queries
-  - migrate legacy SOAP services to REST
-  - deploy and run apps on Microsoft Azure
-  - write clean, maintainable code with SOLID principles
+  - build REST APIs and web apps with C#, ASP.NET Core, Razor Pages and .NET Framework
+  - design SQL Server databases with Entity Framework, Dapper and stored procedures
+  - migrate legacy SOAP (.asmx) services to REST
+  - build authentication, MFA and PDF report generation
+  - deploy to Microsoft Azure and write maintainable code with SOLID principles
 ```
 
 <br/>
@@ -73,7 +75,50 @@ what_i_do:
 
 </div>
 
-## Featured projects
+## Experience
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/experience.svg" alt="Webority Technologies, .NET Developer: Lumex, FoodMe, Lightning Protection Risk Assessment Suite, DPSG School" width="100%" />
+
+</div>
+
+**Webority Technologies** · .NET Developer / Backend Developer · June 2024 to present
+
+**Lumex, SaaS lightning protection product** (Aug 2026 to present)
+- Built the Customer API for Clients, Projects, Assessments, Reports, Reviews, Inspections and Team modules
+- Implemented registration, login, forgot password and MFA, plus assessment calculations and team management
+- Built custom PDF reports with QuestPDF and the report approval flow
+
+**FoodMe, restaurant management application** (Nov 2025 to Jul 2026)
+- Backend for an ecosystem serving 200+ restaurants and 300+ locations in Canada
+- Built REST endpoints for menu management, order processing and customer workflows, and supported the SOAP (.asmx) to REST migration
+- Built delivery-failure recovery (order recreation and reassignment) and Twilio SMS-based MFA
+- Resolved production issues across API, backend and database layers through root-cause analysis
+
+**Lightning Protection Risk Assessment Suite** (Mar 2025 to Oct 2025)
+- Built the app on .NET 9 and Razor Pages following the IEC 62305-2:2024 standard
+- Implemented the risk calculation logic, multi-step wizard forms, risk graphs and reports with safety recommendations
+- Designed normalized SQL Server schemas with Entity Framework Core
+
+**DPSG School, Ghaziabad** (Oct 2024 to Feb 2025)
+- Built school management modules with ASP.NET Core Razor Pages and C#, plus REST APIs and SQL Server data access
+
+<div align="center">
+
+[![Download resume](https://img.shields.io/badge/Download-Resume_PDF-22C55E?style=for-the-badge&labelColor=0C0A09)](https://github.com/vikashsharma42/vikashsharma42/blob/main/resume/Vikash_Kumar_Resume.pdf)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## Personal projects
 
 <div align="center">
 
@@ -84,7 +129,7 @@ what_i_do:
 
 <br/>
 
-<sub>Live from GitHub · <a href="https://developervikashkumar.vercel.app/">More on my portfolio</a></sub>
+<sub>Personal projects, live from GitHub · <a href="https://developervikashkumar.vercel.app/">More on my portfolio</a></sub>
 
 </div>
 
@@ -98,7 +143,7 @@ what_i_do:
 
 ## Case study: KnowledgeHub
 
-A RAG API built with ASP.NET Core. Users upload PDFs and ask natural-language questions about them.
+Personal project. A RAG API built with ASP.NET Core. Users upload PDFs and ask natural-language questions about them.
 
 <div align="center">
 
@@ -234,37 +279,15 @@ A RAG API built with ASP.NET Core. Users upload PDFs and ask natural-language qu
 
 </div>
 
-## Activity
+## Achievements
 
 <div align="center">
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/activity.svg" alt="Contribution activity" width="100%" />
+<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/pull-shark.png" height="88" alt="Pull Shark x3" title="Pull Shark x3" /></a>&nbsp;&nbsp;
+<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/quickdraw.png" height="88" alt="Quickdraw" title="Quickdraw" /></a>&nbsp;&nbsp;
+<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/yolo.png" height="88" alt="YOLO" title="YOLO" /></a>
 
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/streak.svg" alt="Contribution streak" width="100%" />
-
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/stats.svg" alt="GitHub stats" width="49%" />
-<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" alt="Top languages" width="49%" />
-
-<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
-
-<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contributions" width="100%" />
-
-<br/>
-
-<img src="https://hits.sh/github.com/vikashsharma42.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=F97316&labelColor=0C0A09" alt="Profile views" />
-
-</div>
-
-<br/>
-
-## More projects
-
-<div align="center">
-
-<a href="https://github.com/vikashsharma42/Banking-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Banking-App&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Banking App" /></a>
-<a href="https://github.com/vikashsharma42/Student-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Student-Management-System&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Student Management System" /></a>
-<a href="https://github.com/vikashsharma42/BookInventoryUserModel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=BookInventoryUserModel&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="BookStore" /></a>
-<a href="https://github.com/vikashsharma42/TIC-TAC-TOE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=TIC-TAC-TOE&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Tic Tac Toe" /></a>
+<sub>Pull Shark ×3 · Quickdraw · YOLO</sub>
 
 </div>
 
@@ -276,15 +299,14 @@ A RAG API built with ASP.NET Core. Users upload PDFs and ask natural-language qu
 
 </div>
 
-## Achievements
+## Activity
 
 <div align="center">
 
-<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/pull-shark.png" height="88" alt="Pull Shark x3" title="Pull Shark x3" /></a>&nbsp;&nbsp;
-<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/quickdraw.png" height="88" alt="Quickdraw" title="Quickdraw" /></a>&nbsp;&nbsp;
-<a href="https://github.com/vikashsharma42?tab=achievements"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/achievements/yolo.png" height="88" alt="YOLO" title="YOLO" /></a>
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/stats.svg" alt="GitHub stats" width="49%" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" alt="Top languages" width="49%" />
 
-<sub>Pull Shark ×3 · Quickdraw · YOLO</sub>
+<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
