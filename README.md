@@ -1,179 +1,101 @@
 <div align="center">
 
-# ![Vikash Kumar Banner](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=45&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Vikash+Kumar;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+.NET+Backend+Developer;Building+Secure%2C+High-Performance+Solutions;REST+APIs+%7C+Cloud+Architecture+%7C+Azure)
+<!-- Animated Header -->
+![Vikash Kumar Banner](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikash+Kumar;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+.NET+Backend+Developer;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;Building+Secure%2C+High-Performance+APIs;Microsoft+Azure+%7C+Cloud+Architect;Clean+Code+%7C+SOLID+%7C+Microservices)
+
+<br/>
+
+<!-- Animated separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<!-- Social badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-developervikashkumar.vercel.app-7C3AED?style=for-the-badge&logoColor=white)](https://developervikashkumar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashkumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-vikashsharma42-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashsharma42)
+[![Email](https://img.shields.io/badge/Email-vikashkumarjh2009%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkumarjh2009@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-_bhabhan__52-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_bhabhan_52)
+
+<br/>
+
+<!-- Profile views + followers counter -->
+[![Profile Views](https://komarev.com/ghpvc/?username=vikashsharma42&label=Profile+Views&color=7C3AED&style=flat-square)](https://github.com/vikashsharma42)
+![GitHub followers](https://img.shields.io/github/followers/vikashsharma42?label=Followers&style=flat-square&color=7C3AED)
+![GitHub User's stars](https://img.shields.io/github/stars/vikashsharma42?affiliations=OWNER&label=Stars&style=flat-square&color=7C3AED)
 
 </div>
 
 ---
 
-<div align="center">
+## 📍 About Me
 
-**Senior .NET Backend Developer | ASP.NET Core | C# | SQL Server | Azure**
-
-[Portfolio](https://developervikashkumar.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/vikashkumar/) • [Email](mailto:vikashkumar@example.com) • [GitHub](https://github.com/vikashsharma42) • [Twitter](https://twitter.com/vikashkumar)
-
-</div>
-
----
-
-## 📍 Location & Availability
-
-**Gurugram, Haryana, India** | **Open to Remote & Relocation**  
-**2+ Years of Professional Experience** | **Available for New Opportunities**
-
----
-
-## `$ cat vikash.dev`
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=tokyonight&bg_color=0d0d0d&title_color=7C3AED&icon_color=7C3AED&border_color=7C3AED&text_color=c9d1d9&hide_border=false&count_private=true&rank_icon=github" width="420" />
 
 ```yaml
-name:        Vikash Kumar
-role:        Senior .NET Backend Developer & Solutions Architect
-location:    Gurugram, Haryana, India
-experience:  2+ years building enterprise-grade applications
-domains:     [Banking, E-Commerce, Healthcare, SaaS, Logistics]
-focus:       Backend Architecture | Cloud Solutions | Database Design
+👤  name:       Vikash Kumar
+📍  location:   Gurugram, Haryana, India 🇮🇳
+🕐  timezone:   UTC+05:30  (IST)
+💼  role:       Senior .NET Backend Developer
+⚡  exp:        2+ Years Enterprise Dev
+🌐  portfolio:  developervikashkumar.vercel.app
+📫  email:      vikashkumarjh2009@gmail.com
+🔍  status:     Open to Opportunities ✅
 
-primary_expertise:
-  languages:
-    - C#
-    - Java
-    - SQL
-    - JavaScript
-  
-  backend_frameworks:
-    - ASP.NET Core (REST APIs, MVC, Web Applications)
-    - ASP.NET MVC
-    - Entity Framework Core (ORM)
-    - Spring Boot (Java)
-  
-  databases:
-    - SQL Server
-    - T-SQL (Advanced)
-    - Entity Framework Core
-    - LINQ (Query Optimization)
-    - Dapper (Micro-ORM)
-    - ADO.NET
-    - Stored Procedures
-    - Database Indexing
-    - Query Optimization
-  
-  cloud_platforms:
-    - Microsoft Azure
-    - Azure App Services
-    - Azure Functions (Serverless)
-    - Azure SQL Database
-    - Blob Storage
-    - Azure DevOps
-  
-  architecture:
-    - SOLID Principles
-    - Repository Pattern
-    - Unit of Work Pattern
-    - N-Tier Architecture
-    - Clean Architecture
-    - Microservices Design
-    - Event-Driven Architecture
-    - REST API Design
-
-  frontend:
-    - HTML5
-    - CSS3
-    - JavaScript
-    - Bootstrap
-    - Razor Pages
+domains:
+  - Banking & FinTech
+  - E-Commerce & SaaS
+  - Healthcare & Logistics
 
 currently_learning:
-  - Advanced Microservices Architecture
-  - Kubernetes & Container Orchestration
-  - GraphQL APIs in C#
+  - Microservices & Kubernetes
+  - GraphQL in C# (Hot Chocolate)
   - Azure Advanced Services
-  - Real-time Applications with SignalR
-
-open_to:
-  - Senior Backend Engineer roles
-  - Solutions Architect positions
-  - Technical Lead opportunities
-  - Remote work globally
-  - Collaboration & mentoring
-
-ask_me_about:
-  - ASP.NET Core Architecture
-  - REST API Design & Best Practices
-  - SQL Server Optimization
-  - Azure Cloud Solutions
-  - SOLID Principles Implementation
-  - Database Design Patterns
-  - Clean Code & Code Reviews
-  - Backend Testing Strategies
+  - SignalR Real-time Apps
 ```
 
----
-
-## 🎯 What I Do
-
-I specialize in designing and implementing **robust, scalable backend solutions** that power production-grade applications. With a strong foundation in **SOLID principles** and **clean architecture**, I build systems that are:
-
-- 🔒 **Secure** - Industry-standard authentication, authorization, and encryption
-- ⚡ **High-Performance** - Optimized queries, async operations, and efficient resource management
-- 📈 **Scalable** - Built for growth with microservices and cloud-native design
-- 🧪 **Testable** - Comprehensive unit testing, integration testing, and quality assurance
-- 📚 **Maintainable** - Clean code, clear documentation, and proper architectural patterns
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technology Stack
-
-### **Languages**
-
-| Language | Proficiency | Experience |
-|----------|------------|------------|
-| **C#** | ⭐⭐⭐⭐⭐ | 2+ Years |
-| **Java** | ⭐⭐⭐⭐ | 1+ Years |
-| **JavaScript** | ⭐⭐⭐⭐ | 2+ Years |
-| **T-SQL** | ⭐⭐⭐⭐⭐ | 2+ Years |
-
-### **Backend Frameworks & Technologies**
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
+### 💜 Core Stack
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-</div>
-
-### **Databases & Data Management**
-
-<div align="center">
+### 🗄️ Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-</div>
-
-### **Cloud & DevOps**
-
-<div align="center">
+### ☁️ Cloud & DevOps
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure App Services](https://img.shields.io/badge/Azure%20App%20Services-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
+### 🧪 Testing & Quality
 
-### **Frontend Technologies**
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Moq](https://img.shields.io/badge/Moq-7C3AED?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-<div align="center">
+### 🌐 Frontend (Support)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -181,250 +103,297 @@ I specialize in designing and implementing **robust, scalable backend solutions*
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
+### 🔧 Tools & Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
 </div>
 
 ---
 
-## 💼 Featured Work & Projects
-
-### **Enterprise Backend Solutions**
-
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|--------|
-| **E-Commerce REST API** | Scalable backend for product catalog, orders, payments & inventory management | ASP.NET Core, SQL Server, Entity Framework, Azure | Production |
-| **Banking Transaction System** | Secure financial transaction processing with audit trails & encryption | ASP.NET Core, ADO.NET, T-SQL, Stored Procedures | Production |
-| **Microservices Architecture** | Event-driven services for logistics, inventory & supply chain | ASP.NET Core, RabbitMQ, Docker, Azure | Active |
-| **Data Migration Engine** | High-performance migration from legacy systems to modern databases | C#, SQL Server, Dapper, LINQ | Completed |
-| **Real-time Analytics API** | Real-time data aggregation, processing & reporting | ASP.NET Core, SignalR, EF Core, SQL Server | Active |
-| **SOAP to REST Migration** | Legacy SOAP service modernization to RESTful APIs | ASP.NET Core, C#, API Design Patterns | Completed |
-
-### **Java Projects**
-
-[![Hibernate-JSP Projects](https://img.shields.io/badge/Hibernate%20JSP%20Projects-Java%20ORM%20Solutions-ED8936?style=for-the-badge&logo=java&logoColor=white)](https://github.com/vikashsharma42/Hibernate-JSp-Projects)
-
-Advanced enterprise Java solutions demonstrating **Hibernate ORM** integration with **JSP**, **JDBC**, **Spring** frameworks for scalable web applications.
-
----
-
-## 🧪 Quality Assurance & Testing
-
-### **Testing Strategy Across All Layers**
-
-| Layer | Approach | Tools & Technologies |
-|-------|----------|---------------------|
-| **Unit Testing** | Test individual components, methods, and business logic | xUnit, NUnit, Moq, FluentAssertions |
-| **Integration Testing** | Verify database interactions and service integrations | EF Core, Integration Test Containers, SQL Server |
-| **API Testing** | Validate endpoints, contracts, authentication & data flows | RestSharp, Postman, Newman, xUnit |
-| **Database Testing** | Performance analysis, query optimization & data integrity | SQL Server, Query Analyzer, Execution Plans |
-| **Load & Stress Testing** | Measure performance under high concurrency | Apache JMeter, k6, Azure Load Testing |
-| **Security Testing** | OWASP checks, SQL injection prevention, XSS protection | OWASP ZAP, Burp Suite, Security Headers |
-| **CI/CD Automation** | Automated builds, testing, and deployments | GitHub Actions, Azure DevOps, Jenkins |
-| **Code Quality** | Static analysis, code coverage, complexity metrics | SonarQube, Roslyn Analyzers, StyleCop |
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Live Activity
 
 <div align="center">
 
-### GitHub Performance Metrics
+<!-- Stats Row 1 -->
+<img src="https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=tokyonight&bg_color=0d0d0d&title_color=7C3AED&icon_color=7C3AED&border_color=7C3AED&text_color=c9d1d9&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma42&layout=donut&theme=tokyonight&bg_color=0d0d0d&title_color=7C3AED&border_color=7C3AED&text_color=c9d1d9&langs_count=8" height="195" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=dark&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&border_color=30363d&text_color=c9d1d9&hide_border=true&count_private=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma42&layout=compact&theme=dark&bg_color=0d1117&title_color=22D3EE&border_color=30363d&text_color=c9d1d9&hide_border=true)
+<!-- Streak Stats - animated fire streak -->
+<img src="https://streak-stats.demolab.com?user=vikashsharma42&theme=tokyonight&background=0d0d0d&border=7C3AED&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=7C3AED&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=c9d1d9" width="700" />
 
-### Contribution Activity
+<br/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikashsharma42&theme=dark-dimmed&bg_color=0d1117&color=22D3EE&line=22D3EE&point=58a6ff&area=true&hide_border=true)
+<!-- 🌟 LIVE CONTRIBUTION GRAPH (snake animation) -->
+### 🐍 Live Commit Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" />
+</picture>
+
+> 💡 **Setup:** Add a GitHub Action to generate the snake SVG automatically — see the workflow below!
+
+<br/>
+
+<!-- Activity Graph -->
+### 📈 Contribution Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vikashsharma42&theme=tokyo-night&bg_color=0d0d0d&color=7C3AED&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED&hide_border=false&custom_title=Vikash%27s%20Contribution%20Graph)](https://github.com/vikashsharma42)
+
+<br/>
+
+<!-- GitHub Trophies - animated on hover -->
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikashsharma42&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🏆 Core Competencies
+## 💼 Featured Projects
 
-### **Backend Architecture & Design**
+### 🔥 Pinned Repositories
+
+<div align="center">
+
+[![Hibernate-JSP Projects](https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Hibernate-JSp-Projects&theme=tokyonight&bg_color=0d0d0d&title_color=7C3AED&icon_color=7C3AED&border_color=7C3AED&text_color=c9d1d9)](https://github.com/vikashsharma42/Hibernate-JSp-Projects)
+
+</div>
+
+### 🏢 Enterprise Solutions (Professional Work)
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **E-Commerce REST API** | Product catalog, orders, payments & inventory | ASP.NET Core, EF Core, SQL Server, Azure | ✅ Production |
+| **Banking Transaction System** | Secure financial processing with audit trails | ASP.NET Core, ADO.NET, T-SQL, Stored Procs | ✅ Production |
+| **Microservices Platform** | Event-driven logistics & supply chain services | ASP.NET Core, RabbitMQ, Docker, Azure | 🔄 Active |
+| **Data Migration Engine** | Legacy to modern database migration tool | C#, SQL Server, Dapper, LINQ | ✅ Completed |
+| **Real-time Analytics API** | Live data aggregation & reporting | ASP.NET Core, SignalR, EF Core | 🔄 Active |
+| **SOAP → REST Migration** | Modernizing legacy SOAP services | ASP.NET Core, C#, API Design Patterns | ✅ Completed |
+
+---
+
+## 🧪 Testing Strategy
+
+| Layer | Approach | Tools |
+|-------|----------|-------|
+| **Unit Testing** | Individual components & business logic | xUnit, NUnit, Moq, FluentAssertions |
+| **Integration Testing** | DB interactions & service integrations | EF Core InMemory, TestContainers |
+| **API Testing** | Endpoint contracts & auth flows | RestSharp, Postman, Newman |
+| **Database Testing** | Query performance & data integrity | SQL Server Profiler, Execution Plans |
+| **Load Testing** | High-concurrency performance | Apache JMeter, k6, Azure Load Testing |
+| **Security Testing** | OWASP, SQL injection, XSS | OWASP ZAP, Burp Suite |
+| **CI/CD** | Automated build, test & deploy | GitHub Actions, Azure DevOps |
+| **Code Quality** | Static analysis & coverage | SonarQube, Roslyn Analyzers |
+
+---
+
+## 🏗️ Architecture & Design Patterns
+
+<div align="center">
+
 ```
-SOLID Principles (Single Responsibility, Open/Closed, Liskov, Interface Segregation, Dependency Inversion)
+ASP.NET Core Backend Architecture
 │
-├─ Repository Pattern (Data Access Abstraction)
-├─ Unit of Work Pattern (Transaction Management)
-├─ Dependency Injection (IoC Container)
-├─ Middleware Pipeline (Request Processing)
-├─ Clean Architecture (Layered Design)
-├─ Microservices Architecture (Service Decomposition)
-├─ Event-Driven Architecture (Async Communication)
-└─ REST API Design (Resource-Oriented Design)
+├── 🔐 Security Layer
+│   ├── JWT Authentication & Authorization
+│   ├── OAuth2 / OpenID Connect
+│   ├── Role-Based Access Control (RBAC)
+│   └── API Key Management + Rate Limiting
+│
+├── 🏛️ Application Layer (SOLID Principles)
+│   ├── Repository Pattern (Data Access Abstraction)
+│   ├── Unit of Work (Transaction Management)
+│   ├── Dependency Injection (IoC Container)
+│   ├── CQRS (Command Query Responsibility Segregation)
+│   └── Mediator Pattern (MediatR)
+│
+├── 🗄️ Data Layer
+│   ├── Entity Framework Core (ORM)
+│   ├── Dapper (Performance-Critical Queries)
+│   ├── Stored Procedures & Functions
+│   ├── Database Indexing Strategies
+│   └── Query Execution Plan Analysis
+│
+├── ☁️ Cloud Layer (Azure)
+│   ├── App Service Deployments
+│   ├── Azure Functions (Serverless)
+│   ├── Azure Service Bus (Messaging)
+│   ├── Blob Storage & CDN
+│   └── Azure DevOps CI/CD Pipelines
+│
+└── 🔄 Microservices
+    ├── Event-Driven Architecture
+    ├── RabbitMQ Message Broker
+    ├── API Gateway Pattern
+    └── Service Discovery & Health Checks
 ```
 
-### **Enterprise Development**
-```
-ASP.NET Core Web Development
-│
-├─ RESTful API Design & Implementation
-├─ Authentication & Authorization (JWT, OAuth2)
-├─ Middleware & Request Pipeline
-├─ Dependency Injection Configuration
-├─ Error Handling & Logging
-├─ Data Validation & Model Binding
-├─ Async/Await Patterns
-└─ Performance Optimization
-```
-
-### **Database Excellence**
-```
-SQL Server & Data Management
-│
-├─ Database Design & Modeling
-├─ Advanced T-SQL Queries
-├─ Stored Procedures & Functions
-├─ Indexing Strategies & Optimization
-├─ Query Execution Plans Analysis
-├─ Transaction Management (ACID)
-├─ Backup & Recovery Strategies
-└─ Performance Tuning
-```
-
-### **Cloud & Infrastructure**
-```
-Microsoft Azure Platform
-│
-├─ App Service Deployments
-├─ Azure SQL Database Management
-├─ Azure Functions (Serverless)
-├─ Storage & Blob Management
-├─ Azure DevOps Pipelines
-├─ Monitoring & Diagnostics
-├─ Security & Compliance
-└─ Infrastructure as Code
-```
+</div>
 
 ---
 
 ## 🌱 Learning Roadmap
 
-### **Current Focus (Q4 2026)**
-- 🏗️ **Microservices Architecture Patterns** - Service decomposition, communication patterns
-- ☁️ **Azure Advanced Services** - Service Bus, Event Hubs, Cosmos DB
-- 📦 **Kubernetes & Container Orchestration** - Docker, Kubernetes, Container Registry
-- 🔗 **GraphQL in C#** - Hot Chocolate, Data Loaders, Subscriptions
+### **Q4 2026 — Current Focus**
 
-### **Near Term (2027)**
-- 📊 **Real-time Applications** - SignalR, WebSockets, Live Data Streaming
-- 🧪 **Advanced Testing** - Contract Testing, Performance Testing, Chaos Engineering
-- 🔐 **Security Hardening** - OAuth2, OIDC, API Security, Threat Modeling
-- 📈 **System Design** - Scalability, Load Balancing, Caching Strategies
+```
+🏗️ Microservices Architecture ████████████░░ 85%
+☁️ Azure Advanced Services    ███████████░░░ 78%
+📦 Kubernetes & Docker         ████████░░░░░░ 55%
+🔗 GraphQL in C# (HotChocolate)███████░░░░░░░ 45%
+```
+
+### **2027 — Near Term**
+
+```
+📊 Real-time Apps (SignalR)    ██████████░░░░ 70%
+🔐 Advanced Security (OIDC)    █████████░░░░░ 65%
+📈 Distributed Systems Design  ████████░░░░░░ 55%
+🧪 Chaos Engineering           █████░░░░░░░░░ 35%
+```
 
 ---
 
-## 👨‍💻 Professional Experience
+## 👨‍💻 Professional Journey
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│ 2024 - Present  │ Senior .NET Backend Developer         │
-│                 ├─ Architecting enterprise solutions    │
-│                 ├─ Leading technical design             │
-│                 ├─ Mentoring team members               │
-│                 └─ REST API & Microservices design      │
-├─────────────────────────────────────────────────────────┤
-│ 2022 - 2024     │ Full-Stack .NET Developer              │
-│                 ├─ Built scalable REST APIs             │
-│                 ├─ Database schema design               │
-│                 ├─ Azure deployments                    │
-│                 └─ Performance optimization             │
-├─────────────────────────────────────────────────────────┤
-│ 2021 - 2022     │ Junior Backend Developer               │
-│                 ├─ C# & .NET fundamentals               │
-│                 ├─ Team project contributions           │
-│                 ├─ Web application development          │
-│                 └─ Code review & feedback               │
-└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│ 2024 – Present  │  Senior .NET Backend Developer            │
+│                 ├─ Enterprise REST API architecture         │
+│                 ├─ Technical design & code reviews         │
+│                 ├─ Mentoring junior developers             │
+│                 └─ Microservices & Azure deployment         │
+├─────────────────────────────────────────────────────────────┤
+│ 2022 – 2024     │  Full-Stack .NET Developer                │
+│                 ├─ Scalable REST APIs (ASP.NET Core)       │
+│                 ├─ Database schema design & optimization    │
+│                 ├─ Azure cloud deployments                  │
+│                 └─ Performance tuning & query optimization  │
+├─────────────────────────────────────────────────────────────┤
+│ 2021 – 2022     │  Junior Backend Developer                 │
+│                 ├─ C# & .NET fundamentals                   │
+│                 ├─ Web application development              │
+│                 ├─ Java + Hibernate + JSP projects          │
+│                 └─ Team collaboration & code reviews        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🐍 Snake Animation Setup (GitHub Action)
+
+> Add this workflow to generate your live commit snake animation!
+
+**File:** `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push output to branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 ---
 
 ## 🎯 Professional Philosophy
 
-> **"Code is for humans first, machines second. Write clean, testable, maintainable code that tells a story."**
+> *"Code is for humans first, machines second. Write clean, testable, maintainable code that tells a story."*
 
-### Core Beliefs:
-- 🎯 **Problem-First Approach** - Understand the business problem before writing code
-- 📐 **Clean Architecture** - Build systems that are easy to understand, modify, and test
-- 🧪 **Quality-First Mindset** - Comprehensive testing at all layers (unit, integration, e2e)
-- 📚 **Continuous Learning** - Stay updated with technology trends and best practices
-- 🤝 **Team Collaboration** - Share knowledge, mentor others, elevate the entire team
-- 🚀 **Performance Excellence** - Optimize for speed, efficiency, and resource utilization
-- 🔒 **Security Awareness** - Build secure systems by default, not as an afterthought
+| Principle | Practice |
+|-----------|----------|
+| 🎯 **Problem-First** | Understand the business before writing code |
+| 📐 **Clean Architecture** | Easy to understand, modify, and test |
+| 🧪 **Quality-First** | Comprehensive testing at all layers |
+| 📚 **Continuous Learning** | Stay current with tech trends |
+| 🤝 **Team Collaboration** | Share knowledge, elevate the entire team |
+| 🚀 **Performance** | Optimize for speed, efficiency, and scale |
+| 🔒 **Security by Default** | Not as an afterthought |
 
 ---
 
 ## 🚀 Next Goals
 
-- 📖 **Publish Technical Articles** on Medium about .NET best practices
-- 🏗️ **Build Microservices Showcase** - Production-ready reference architecture
-- 🤝 **Contribute to Open-Source** - Give back to the .NET ecosystem
-- 🧑‍🏫 **Create Tutorials** - Video courses on ASP.NET Core & Azure
-- 💪 **Master Distributed Systems** - Deep dive into complex distributed architecture
-- 🎓 **Mentor Junior Developers** - Help others grow in their careers
+- 📝 **Publish Technical Articles** on Medium — .NET best practices & Azure
+- 🏗️ **Microservices Showcase** — Production-ready reference architecture on GitHub
+- 🤝 **Open Source Contributions** — Give back to the .NET ecosystem
+- 🎥 **Create Video Tutorials** — ASP.NET Core & Azure on YouTube
+- 🧑‍🏫 **Mentor Junior Developers** — Community growth
+- 🎓 **Azure Certifications** — AZ-204, AZ-305
 
 ---
 
 ## 🤝 Let's Connect
 
-**I'm always open to:**
-- 💼 Discussing backend architecture & design patterns
-- ☁️ Collaborating on cloud solutions & Azure projects
-- 📚 Sharing knowledge & mentoring aspiring developers
-- 🔗 Building open-source projects together
-- 📞 Exploring career growth & new opportunities
-
 <div align="center">
 
-### 📞 Contact & Links
+I'm always open to discussing **backend architecture**, **cloud solutions**, **open-source projects**, and **career opportunities**!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-developervikashkumar.vercel.app-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developervikashkumar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikashkumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashkumar/)
-[![Email](https://img.shields.io/badge/Email-vikashkumar%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkumarjh2009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-vikashsharma42-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashsharma42)
-[![Twitter](https://img.shields.io/badge/Twitter-@vikashkumar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vikashkumar)
+<br/>
 
-**Fastest way to reach:** [Email](mailto:vikashkumarjh2009@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vikashkumar/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-7C3AED?style=for-the-badge)](https://developervikashkumar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashkumar/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikashkumarjh2009@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashsharma42)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_bhabhan_52)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100068015768147)
 
----
-
-### 📊 Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| 💼 **Professional Experience** | 2+ Years |
-| 🏗️ **Projects Delivered** | 10+ Enterprise Solutions |
-| 📚 **Technologies Mastered** | 20+ Technologies |
-| 🧪 **Code Quality Focus** | 100% - Automated Testing & Code Reviews |
-| 🌍 **Open to Opportunities** | ✅ Yes - Remote & Relocation |
-| 🚀 **Always Learning** | ✅ Yes - Microservices, GraphQL, K8s |
+<br/>
 
 ---
 
-### ⭐ If You Find My Work Interesting
+### 📊 At a Glance
 
-Feel free to star my repositories, follow for updates, and reach out for collaborations!
+| | |
+|--|--|
+| 💼 Experience | 2+ Years Enterprise |
+| 🏗️ Projects | 10+ Enterprise Solutions |
+| 🛠️ Technologies | 20+ Mastered |
+| 🧪 Code Quality | 100% — Testing & Reviews |
+| 🌍 Availability | ✅ Remote & Relocation |
+| 🏅 GitHub Achievements | Pull Shark ×2 · YOLO |
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vikashsharma42&label=Profile%20Views&color=22D3EE&style=flat-square)](https://github.com/vikashsharma42)
+---
 
-**Made with ❤️ by Vikash Kumar** | 🇮🇳 **Gurugram, Haryana, India**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+**Made with ❤️ by Vikash Kumar** · 🇮🇳 Gurugram, Haryana, India · UTC+05:30
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vikashsharma42&label=Profile+Views&color=7C3AED&style=flat-square)](https://github.com/vikashsharma42)
 
 </div>
-
----
-
-## 📚 Latest Projects
-
-Check out my repositories for:
-- 🏢 **Enterprise Backend Solutions** - Production-ready .NET applications
-- 📚 **Learning Resources** - Code samples and tutorials
-- 🔧 **Utility Libraries** - Reusable .NET components
-- 🌐 **Full-Stack Projects** - End-to-end applications
-
-Visit my [GitHub Profile](https://github.com/vikashsharma42) to explore all projects!
-
----
