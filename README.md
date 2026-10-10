@@ -151,6 +151,7 @@ The fastest way to reach me is email or LinkedIn.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0A09,60:F97316,100:FDBA74&height=110&section=footer" alt="" />
 
-![Profile views](https://komarev.com/ghpvc/?username=vikashsharma42&label=profile%20views&color=F97316&style=flat-square)
+<a href="https://github.com/vikashsharma42"><img src="https://komarev.com/ghpvc/?username=vikashsharma42&label=Profile+Views&color=F97316&style=flat-square" alt="Profile views" /></a>
+<a href="https://github.com/vikashsharma42?tab=followers"><img src="https://img.shields.io/github/followers/vikashsharma42?label=Followers&style=flat-square&color=F97316" alt="GitHub followers" /></a>
 
 </div>
