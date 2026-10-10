@@ -24,6 +24,10 @@
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/open-to-work.svg" alt="Open to .NET backend roles" width="100%" />
 
+<br/>
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/code-rain.svg" alt="Vikash Kumar, .NET Backend Developer" width="100%" />
+
 </div>
 
 <br/>
@@ -86,6 +90,10 @@ currently_learning:
 ## Education
 
 <div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/journey.svg" alt="Academic journey 2018 to 2025" width="100%" />
+
+<br/>
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/education.svg" width="100%" alt="Education: MCA at SRMIST, BCA at Dr. K. N. Modi Institute, Intermediate at Jehanabad College, High School at Utkramit Madhyamik School" />
 
@@ -183,6 +191,10 @@ currently_learning:
 
 <img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
+<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contributions" width="100%" />
+
+<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/breakout-contribution-graph-dark.svg" alt="Breakout game on my contribution graph" width="100%" />
+
 <br/>
 
 <img src="https://hits.sh/github.com/vikashsharma42.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=F97316&labelColor=0C0A09" alt="Profile views" />
@@ -229,6 +241,10 @@ currently_learning:
 ## Let's connect
 
 <div align="center">
+
+<a href="mailto:vikashkumarjh2009@gmail.com"><img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/cta.svg" alt="Have a backend to build? Let's talk" width="100%" /></a>
+
+<br/>
 
 I like talking about backend architecture, APIs, Azure and .NET.
 **Open to .NET backend roles.**
