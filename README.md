@@ -92,35 +92,6 @@ currently_learning:
 
 <br/>
 
-## How I build backends
-
-| Area | Approach |
-| --- | --- |
-| **API design** | REST APIs with ASP.NET Core, SOAP to REST migration |
-| **Architecture** | N-tier layering, Repository pattern, SOLID principles |
-| **Data access** | EF Core for productivity, Dapper and ADO.NET for hot paths |
-| **Database** | SQL Server schemas, stored procedures, query tuning |
-| **Cloud** | Azure App Service and Azure Functions |
-
-<br/>
-
-## Featured projects
-
-| Project | What it is | Code |
-| --- | --- | --- |
-| **KnowledgeHub** | RAG API built with ASP.NET Core: upload PDFs and ask questions about them. JWT auth, rate limiting, Gemini embeddings and chat | [KnowledgeBase.Hub](https://github.com/vikashsharma42/KnowledgeBase.Hub) |
-| **Image Downloader** | Real-time image downloader that scrapes gallery pages with Puppeteer and streams progress over Socket.IO | [Image-downloader](https://github.com/vikashsharma42/Image-downloader) |
-| **IRCTC eTicketing App** | Train ticket booking app built with Java, Hibernate and JSP | [Hibernate-JSp-Projects](https://github.com/vikashsharma42/Hibernate-JSp-Projects) |
-| **Online Banking App** | Banking application built with Spring Boot | [BankApp2_SpringBoot](https://github.com/vikashsharma42/BankApp2_SpringBoot) |
-| **Banking App** | Core banking operations app | [Banking-App](https://github.com/vikashsharma42/Banking-App) |
-| **BookStore (User Model)** | Book inventory and user-side store flow | [BookInventoryUserModel](https://github.com/vikashsharma42/BookInventoryUserModel) |
-| **Student Management System** | CRUD app for managing student records | [Student-Management-System](https://github.com/vikashsharma42/Student-Management-System) |
-| **Tic Tac Toe** | Classic game | [TIC-TAC-TOE](https://github.com/vikashsharma42/TIC-TAC-TOE) |
-
-More on my [portfolio](https://developervikashkumar.vercel.app/).
-
-<br/>
-
 ## Signal
 
 <div align="center">
