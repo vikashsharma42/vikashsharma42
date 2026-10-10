@@ -15,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0A09)](mailto:vikashkumarjh2009@gmail.com)
 [![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0C0A09)](https://twitter.com/_Mr_Vikash)
 
-<sub>[At a glance](#at-a-glance) · [Projects](#featured-projects) · [Stack](#tech-stack) · [How I build](#how-i-build) · [Education](#education) · [Activity](#activity) · [Contact](#lets-connect)</sub>
+<sub>[At a glance](#at-a-glance) · [What I bring](#what-i-bring) · [Projects](#featured-projects) · [Stack](#tech-stack) · [How I build](#how-i-build) · [Education](#education) · [Activity](#activity) · [Contact](#lets-connect)</sub>
 
 </div>
 
@@ -48,6 +48,22 @@ what_i_do:
   - deploy and run apps on Microsoft Azure
   - write clean, maintainable code with SOLID principles
 ```
+
+<br/>
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## What I bring
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/value-cards.svg" alt="What I bring: secure REST APIs, fast databases, legacy to modern migrations, cloud-ready deployments" width="100%" />
+
+</div>
 
 <br/>
 
