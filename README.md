@@ -118,20 +118,16 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashsharma42&bg_color=0C0A09&color=FDBA74&line=F97316&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%" alt="Contribution activity" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/activity.svg" width="100%" alt="Contribution activity" />
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/streak.svg" width="100%" alt="Contribution streak" />
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/profile/top-langs.svg" width="49%" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=vikashsharma42&theme=dark&hide_border=true&background=0C0A09&ring=F97316&fire=F97316&currStreakLabel=F97316" width="100%" alt="Contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma42&layout=compact&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&text_color=FDBA74" width="49%" alt="Top languages" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vikashsharma42&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://hits.sh/github.com/vikashsharma42.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=F97316&labelColor=0C0A09" alt="Profile views" />
 
 </div>
 
