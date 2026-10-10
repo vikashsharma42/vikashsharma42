@@ -14,7 +14,7 @@
 
 <sub>Open to .NET backend roles · Gurugram, Haryana, India · remote-friendly</sub>
 
-<sub>[About](#-cat-vikashspecyml) · [Education](#education) · [Stack](#tech-stack) · [Approach](#how-i-build-backends) · [Projects](#featured-projects) · [Signal](#signal) · [Contact](#lets-connect)</sub>
+<sub>[About](#-cat-vikashspecyml) · [Education](#education) · [Stack](#tech-stack) · [Projects](#featured-projects) · [Growth](#growth--momentum) · [Achievements](#achievements) · [Contact](#lets-connect)</sub>
 
 </div>
 
@@ -97,57 +97,54 @@ currently_learning:
 
 <br/>
 
-## How I build backends
-
-- **API design:** REST APIs with ASP.NET Core, SOAP to REST migration
-- **Architecture:** N-tier layering, Repository pattern, SOLID principles
-- **Data access:** EF Core for productivity, Dapper and ADO.NET for hot paths
-- **Database:** SQL Server schemas, stored procedures, query tuning
-- **Cloud:** Azure App Service and Azure Functions
-
-<br/>
-
 ## Featured projects
-
-**KnowledgeHub:** RAG API built with ASP.NET Core. Upload PDFs and ask questions about them, with JWT auth, rate limiting, Gemini embeddings and chat.
-→ [KnowledgeBase.Hub](https://github.com/vikashsharma42/KnowledgeBase.Hub)
-
-**Image Downloader:** Real-time image downloader that scrapes gallery pages with Puppeteer and streams progress over Socket.IO.
-→ [Image-downloader](https://github.com/vikashsharma42/Image-downloader)
-
-**IRCTC eTicketing App:** Train ticket booking app built with Java, Hibernate and JSP.
-→ [Hibernate-JSp-Projects](https://github.com/vikashsharma42/Hibernate-JSp-Projects)
-
-**Online Banking App:** Banking application built with Spring Boot.
-→ [BankApp2_SpringBoot](https://github.com/vikashsharma42/BankApp2_SpringBoot)
-
-**Banking App:** Core banking operations app.
-→ [Banking-App](https://github.com/vikashsharma42/Banking-App)
-
-**BookStore (User Model):** Book inventory and user-side store flow.
-→ [BookInventoryUserModel](https://github.com/vikashsharma42/BookInventoryUserModel)
-
-**Student Management System:** CRUD app for managing student records.
-→ [Student-Management-System](https://github.com/vikashsharma42/Student-Management-System)
-
-**Tic Tac Toe:** Classic game.
-→ [TIC-TAC-TOE](https://github.com/vikashsharma42/TIC-TAC-TOE)
-
-More on my [portfolio](https://developervikashkumar.vercel.app/).
-
-<br/>
-
-## Signal
 
 <div align="center">
 
-<!-- Live images: GitHub fetches these on every view, so they stay current with no workflow. -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashsharma42&theme=dark&hide_border=true&background=0C0A09&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="Contribution streak" width="100%" />
+<a href="https://github.com/vikashsharma42/KnowledgeBase.Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=KnowledgeBase.Hub&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="KnowledgeHub" /></a>
+<a href="https://github.com/vikashsharma42/Image-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Image-downloader&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Image Downloader" /></a>
+<a href="https://github.com/vikashsharma42/BankApp2_SpringBoot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=BankApp2_SpringBoot&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Online Banking App" /></a>
+<a href="https://github.com/vikashsharma42/Hibernate-JSp-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Hibernate-JSp-Projects&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="IRCTC eTicketing App" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" alt="GitHub stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma42&layout=compact&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&text_color=FDBA74" alt="Top languages" width="49%" />
+<br/>
 
-<img src="https://raw.githubusercontent.com/vikashsharma42/vikashsharma42/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+<sub>Live from GitHub · <a href="https://developervikashkumar.vercel.app/">More on my portfolio</a></sub>
+
+</div>
+
+<br/>
+
+## Growth & momentum
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashsharma42&bg_color=0C0A09&color=FDBA74&line=F97316&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%" alt="Contribution activity" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=vikashsharma42&theme=dark&hide_border=true&background=0C0A09&ring=F97316&fire=F97316&currStreakLabel=F97316" width="100%" alt="Contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vikashsharma42&show_icons=true&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashsharma42&layout=compact&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&text_color=FDBA74" width="49%" alt="Top languages" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=vikashsharma42&style=for-the-badge&color=F97316&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<br/>
+
+## More projects
+
+<div align="center">
+
+<a href="https://github.com/vikashsharma42/Banking-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Banking-App&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Banking App" /></a>
+<a href="https://github.com/vikashsharma42/Student-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=Student-Management-System&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Student Management System" /></a>
+<a href="https://github.com/vikashsharma42/BookInventoryUserModel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=BookInventoryUserModel&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="BookStore" /></a>
+<a href="https://github.com/vikashsharma42/TIC-TAC-TOE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vikashsharma42&repo=TIC-TAC-TOE&theme=dark&hide_border=true&bg_color=0C0A09&title_color=F97316&icon_color=F97316&text_color=FDBA74" width="49%" alt="Tic Tac Toe" /></a>
 
 </div>
 
@@ -169,12 +166,25 @@ More on my [portfolio](https://developervikashkumar.vercel.app/).
 
 ## Let's connect
 
-I like talking about backend architecture, APIs, Azure and .NET, and I'm open to .NET backend roles. The fastest way to reach me is email or LinkedIn.
+<div align="center">
 
-- **Portfolio:** [developervikashkumar.vercel.app](https://developervikashkumar.vercel.app/)
-- **Email:** [vikashkumarjh2009@gmail.com](mailto:vikashkumarjh2009@gmail.com)
-- **LinkedIn:** [linkedin.com/in/developer-vikash](https://www.linkedin.com/in/developer-vikash)
-- **X:** [@_Mr_Vikash](https://twitter.com/_Mr_Vikash)
+I like talking about backend architecture, APIs, Azure and .NET.
+**Open to .NET backend roles.**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-developervikashkumar.vercel.app-F97316?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0C0A09)](https://developervikashkumar.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-vikashkumarjh2009@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0A09)](mailto:vikashkumarjh2009@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-developer--vikash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0C0A09)](https://www.linkedin.com/in/developer-vikash)
+[![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0C0A09)](https://twitter.com/_Mr_Vikash)
+
+<br/>
+
+<sub>The fastest way to reach me is email or LinkedIn.</sub>
+
+</div>
+
+<br/>
 
 <div align="center">
 
