@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=60&lines=Vikash+Kumar;.NET+Backend+Developer;C%23+%C2%B7+ASP.NET+Core+%C2%B7+SQL+Server+%C2%B7+Azure;Secure+REST+APIs+and+clean+architecture" alt="Vikash Kumar - .NET Backend Developer" />
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/hero.svg" alt="Vikash Kumar, .NET Backend Developer" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=40&lines=Building+secure+REST+APIs+with+ASP.NET+Core;Designing+fast+SQL+Server+databases;Migrating+legacy+SOAP+services+to+REST;Deploying+to+Microsoft+Azure" alt="What I do" />
 
 <br/>
 
