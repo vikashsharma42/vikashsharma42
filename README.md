@@ -15,7 +15,7 @@
 [![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0C0A09)](mailto:vikashkumarjh2009@gmail.com)
 [![X](https://img.shields.io/badge/X-@__Mr__Vikash-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0C0A09)](https://twitter.com/_Mr_Vikash)
 
-<sub>[At a glance](#at-a-glance) · [What I bring](#what-i-bring) · [Projects](#featured-projects) · [Stack](#tech-stack) · [How I build](#how-i-build) · [Education](#education) · [Activity](#activity) · [Contact](#lets-connect)</sub>
+<sub>[At a glance](#at-a-glance) · [What I bring](#what-i-bring) · [Projects](#featured-projects) · [Case study](#case-study-knowledgehub) · [Stack](#tech-stack) · [How I build](#how-i-build) · [Education](#education) · [Activity](#activity) · [Contact](#lets-connect)</sub>
 
 </div>
 
@@ -87,6 +87,44 @@ what_i_do:
 <sub>Live from GitHub · <a href="https://developervikashkumar.vercel.app/">More on my portfolio</a></sub>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## Case study: KnowledgeHub
+
+A RAG API built with ASP.NET Core. Users upload PDFs and ask natural-language questions about them.
+
+<div align="center">
+
+<img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/assets/rag-pipeline.svg" alt="KnowledgeHub RAG pipeline: upload, extract, chunk, embed, retrieve, answer" width="100%" />
+
+</div>
+
+**Architecture**
+- `KnowledgeHub.API`: JWT-secured REST API
+- `KnowledgeHub.AI`: Gemini-powered pipeline for document processing, embeddings and question answering
+- Interface-driven AI layer, so providers and vector stores can be swapped without touching controllers
+
+**Security and reliability**
+- JWT Bearer authentication
+- Rate limiting: 120 requests/min per IP globally, 10 requests/min per IP on AI endpoints
+- Centralized error handling that returns safe responses and hides provider names
+- Security headers, HTTPS redirection, HSTS in production, Brotli and Gzip compression, configurable CORS
+- `/health` endpoint and interactive API docs with Scalar
+
+**Stack:** ASP.NET Core · Gemini (`gemini-embedding-001`, `gemini-2.0-flash`) · PdfPig · ASP.NET Core Rate Limiting · Scalar
+
+[View on GitHub](https://github.com/vikashsharma42/KnowledgeBase.Hub)
+
+<br/>
+
+**Also built: Image Downloader.** A real-time dashboard that scrapes gallery pages with Puppeteer (it auto-scrolls to load lazy images and filters duplicates), downloads them with Axios, and streams live progress to the browser over Socket.IO. Stack: Node.js, Express, Socket.IO, Puppeteer. [View on GitHub](https://github.com/vikashsharma42/Image-downloader)
 
 <br/>
 
