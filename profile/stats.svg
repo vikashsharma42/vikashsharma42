@@ -6,7 +6,7 @@
 <rect x="30" y="56" width="36" height="3" rx="1.5" fill="#F97316"/>
 <circle cx="38" cy="87" r="4" fill="#F97316"/>
 <text x="54" y="92" class="sans" font-size="15" fill="#A8A29E">Commits (12 months)</text>
-<text x="460" y="92" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">96</text>
+<text x="460" y="92" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">145</text>
 <circle cx="38" cy="112" r="4" fill="#F97316"/>
 <text x="54" y="117" class="sans" font-size="15" fill="#A8A29E">Pull requests</text>
 <text x="460" y="117" text-anchor="end" class="mono" font-size="15" font-weight="700" fill="#FAFAF9">29</text>
