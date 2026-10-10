@@ -14,7 +14,7 @@
 
 <sub>Open to .NET backend roles · Gurugram, Haryana, India · remote-friendly</sub>
 
-<sub>[About](#-cat-vikashspecyml) · [Stack](#tech-stack) · [Approach](#how-i-build-backends) · [Projects](#featured-projects) · [Signal](#signal) · [Contact](#lets-connect)</sub>
+<sub>[About](#-cat-vikashspecyml) · [Stack](#tech-stack) · [Approach](#how-i-build-backends) · [Education](#education) · [Projects](#featured-projects) · [Signal](#signal) · [Contact](#lets-connect)</sub>
 
 </div>
 
@@ -29,9 +29,6 @@ experience:  2+ years building secure, high-performance web apps and REST APIs
 location:    Gurugram, Haryana, India (UTC+05:30)
 status:      open to .NET backend roles, remote-friendly
 github:      Pull Shark x3, Quickdraw, YOLO
-education:
-  - MCA (pursuing), SRM University, Chennai
-  - BCA, Dr. K. N. Modi Institute of Engineering & Technology, Modinagar
 
 what_i_do:
   - build REST APIs and web applications with C# and ASP.NET Core
@@ -49,6 +46,21 @@ currently_learning:
   - Azure advanced services
   - SignalR real-time apps
 ```
+
+<br/>
+
+## Education
+
+<div align="center">
+
+| When | What | Where |
+| :--- | :--- | :--- |
+| **YYYY – Present** | **MCA** (pursuing) | SRM University, Chennai |
+| **YYYY – YYYY** | **BCA** | Dr. K. N. Modi Institute of Engineering & Technology, Modinagar |
+
+</div>
+
+<sub>Replace YYYY with your start and end years.</sub>
 
 <br/>
 
