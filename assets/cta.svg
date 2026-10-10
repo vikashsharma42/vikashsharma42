@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="140" viewBox="0 0 860 140" font-family="JetBrains Mono, Consolas, monospace">
+<defs><linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#F97316"><animate attributeName="stop-color" values="#F97316;#FDBA74;#F97316" dur="4s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#FDBA74"><animate attributeName="stop-color" values="#FDBA74;#F97316;#FDBA74" dur="4s" repeatCount="indefinite"/></stop></linearGradient></defs>
+<rect width="860" height="140" rx="12" fill="#0C0A09" stroke="#292524"/>
+<text x="430" y="48" text-anchor="middle" font-size="20" font-weight="700" fill="#E7E5E4">Have a backend to build?</text>
+<rect x="300" y="68" width="260" height="46" rx="23" fill="url(#b)"><animate attributeName="opacity" values="1;.8;1" dur="2s" repeatCount="indefinite"/></rect>
+<rect x="300" y="68" width="260" height="46" rx="23" fill="none" stroke="#F97316"><animate attributeName="x" values="300;290;300" dur="2s" repeatCount="indefinite"/><animate attributeName="width" values="260;280;260" dur="2s" repeatCount="indefinite"/><animate attributeName="y" values="68;63;68" dur="2s" repeatCount="indefinite"/><animate attributeName="height" values="46;56;46" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0;.8" dur="2s" repeatCount="indefinite"/></rect>
+<text x="430" y="97" text-anchor="middle" font-size="16" font-weight="700" fill="#0C0A09">Let's talk →</text></svg>
