@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="572" viewBox="0 0 860 572" font-family="JetBrains Mono, Consolas, monospace">
+<style>.c{animation:u 7s ease-in-out infinite}@keyframes u{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}</style>
+<rect width="860" height="572" rx="12" fill="#0C0A09" stroke="#292524"/>
+<text x="24" y="38" font-size="20" font-weight="700" fill="#F97316">Webority Technologies</text>
+<text x="24" y="62" font-size="13" fill="#A8A29E">.NET Developer / Backend Developer</text>
+<text x="836" y="38" text-anchor="end" font-size="13" fill="#FDBA74">June 2024 – Present</text>
+<line x1="36" y1="118" x2="36" y2="478" stroke="#44403c" stroke-width="2"/>
+<circle r="4" cx="36" fill="#F97316"><animate attributeName="cy" values="118;478;118" dur="7s" repeatCount="indefinite"/></circle>
+<g class="c" style="animation-delay:0.0s"><rect x="70" y="92" width="770" height="104" rx="12" fill="#1c1410" stroke="#292524"/>
+<circle cx="36" cy="118" r="7" fill="#0C0A09" stroke="#F97316" stroke-width="2"/><circle cx="36" cy="118" r="7" fill="none" stroke="#22C55E"><animate attributeName="r" values="7;17" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;0" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="90" y="124" font-size="15" font-weight="700" fill="#FDBA74">Lumex · SaaS lightning protection product</text>
+<text x="822" y="124" text-anchor="end" font-size="12" fill="#22C55E">Aug 2026 – Present</text>
+<text x="90" y="152" font-size="12" fill="#E7E5E4">Customer API for a SaaS lightning risk assessment platform (IEC 62305-2:2024)</text>
+<text x="90" y="176" font-size="11" fill="#78716C">C# · .NET · REST APIs · SQL Server · QuestPDF</text></g><g class="c" style="animation-delay:0.4s"><rect x="70" y="212" width="770" height="104" rx="12" fill="#1c1410" stroke="#292524"/>
+<circle cx="36" cy="238" r="7" fill="#0C0A09" stroke="#F97316" stroke-width="2"/>
+<text x="90" y="244" font-size="15" font-weight="700" fill="#FDBA74">FoodMe · Restaurant management application</text>
+<text x="822" y="244" text-anchor="end" font-size="12" fill="#A8A29E">Nov 2025 – Jul 2026</text>
+<text x="90" y="272" font-size="12" fill="#E7E5E4">Backend for 200+ restaurants, 300+ locations in Canada · SOAP to REST · Twilio MFA</text>
+<text x="90" y="296" font-size="11" fill="#78716C">C# · .NET Framework 4.8 · SQL Server · Entity Framework · Azure</text></g><g class="c" style="animation-delay:0.8s"><rect x="70" y="332" width="770" height="104" rx="12" fill="#1c1410" stroke="#292524"/>
+<circle cx="36" cy="358" r="7" fill="#0C0A09" stroke="#F97316" stroke-width="2"/>
+<text x="90" y="364" font-size="15" font-weight="700" fill="#FDBA74">Lightning Protection Risk Assessment Suite</text>
+<text x="822" y="364" text-anchor="end" font-size="12" fill="#A8A29E">Mar 2025 – Oct 2025</text>
+<text x="90" y="392" font-size="12" fill="#E7E5E4">IEC 62305-2:2024 risk calculations, multi-step wizard forms, risk graphs and reports</text>
+<text x="90" y="416" font-size="11" fill="#78716C">C# · .NET 9 · Razor Pages · SQL Server · EF Core · Azure</text></g><g class="c" style="animation-delay:1.2000000000000002s"><rect x="70" y="452" width="770" height="104" rx="12" fill="#1c1410" stroke="#292524"/>
+<circle cx="36" cy="478" r="7" fill="#0C0A09" stroke="#F97316" stroke-width="2"/>
+<text x="90" y="484" font-size="15" font-weight="700" fill="#FDBA74">DPSG School, Ghaziabad · School management app</text>
+<text x="822" y="484" text-anchor="end" font-size="12" fill="#A8A29E">Oct 2024 – Feb 2025</text>
+<text x="90" y="512" font-size="12" fill="#E7E5E4">Razor Pages modules, REST APIs and SQL Server data access for school operations</text>
+<text x="90" y="536" font-size="11" fill="#78716C">C# · ASP.NET Core · Razor Pages · Entity Framework · SQL Server</text></g></svg>

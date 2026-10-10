@@ -24,12 +24,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Pac-Man and Breakout -> dist/pacman-contribution-graph(-dark).svg, dist/breakout-contribution-graph(-dark).svg
-      - name: Generate Pac-Man and Breakout
+      # Pac-Man -> dist/pacman-contribution-graph(-dark).svg
+      - name: Generate Pac-Man
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman,breakout'
+          games: 'pacman'
 
       # One push so the animations don't overwrite each other
       - name: Push to output branch
