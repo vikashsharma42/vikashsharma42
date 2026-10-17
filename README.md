@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"
 
 <img src="https://github.com/vikashsharma42/vikashsharma42/raw/main/hero.svg" alt="Vikash Kumar, .NET Backend Developer" width="100%" />
 
